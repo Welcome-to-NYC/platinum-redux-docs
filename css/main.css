@@ -813,6 +813,99 @@ button { font: inherit; color: inherit; }
   letter-spacing: 1px;
 }
 
+/* ==== walkthrough ==== */
+.wt-items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(260px, 100%), 1fr));
+  gap: 0.3rem;
+  font-size: 1.05rem;
+}
+.wt-item {
+  background: var(--bg-2);
+  border: 2px solid var(--line);
+  padding: 0.4rem 0.55rem;
+}
+.wt-item--wild {
+  cursor: pointer;
+  border-color: var(--accent);
+  background: rgba(255, 91, 61, 0.08);
+  transition: background 0.08s, border-color 0.08s;
+  user-select: none;
+}
+.wt-item--wild:hover, .wt-item--wild:focus-visible {
+  background: rgba(255, 91, 61, 0.18);
+  border-color: var(--accent-2);
+  outline: none;
+}
+.wt-item--wild .wt-item__chev {
+  font-family: var(--font-body);
+  color: var(--accent-2);
+  font-size: 1.2rem;
+  margin-left: 0.3rem;
+  transition: transform 0.12s;
+  display: inline-block;
+}
+.wt-item--wild.is-open {
+  grid-column: 1 / -1;
+  background: rgba(255, 91, 61, 0.12);
+  border-color: var(--accent-2);
+}
+.wt-item--wild.is-open .wt-item__chev {
+  transform: rotate(180deg);
+}
+.wt-item__expand {
+  margin-top: 0.6rem;
+  padding-top: 0.5rem;
+  border-top: 2px dashed var(--line);
+}
+.wt-encblock { margin-bottom: 0.6rem; }
+.wt-encblock:last-child { margin-bottom: 0; }
+.wt-encblock__head {
+  font-family: var(--font-pixel);
+  font-size: 0.55rem;
+  color: var(--accent-2);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+  padding: 0.3rem 0.5rem;
+  background: var(--panel);
+  border: 2px solid var(--line);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+.wt-encblock__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(170px, 100%), 1fr));
+  gap: 0.35rem;
+}
+.wt-mon {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  background: var(--panel);
+  border: 2px solid var(--line);
+  padding: 0.35rem 0.5rem;
+  color: var(--ink);
+  text-decoration: none;
+}
+a.wt-mon:hover {
+  background: var(--panel-2);
+  border-color: var(--accent-2);
+  color: var(--ink);
+  text-decoration: none;
+}
+.wt-no-match {
+  font-size: 1rem;
+  color: var(--ink-mute);
+  font-style: italic;
+  padding: 0.3rem 0;
+}
+
 /* ==== empty / fallback ==== */
 .empty {
   text-align: center;
