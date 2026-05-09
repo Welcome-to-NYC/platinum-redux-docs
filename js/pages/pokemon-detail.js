@@ -1,7 +1,8 @@
 import { load, pkmnIdFromName, normName } from "../data.js";
 import {
-  setTitle, spriteImg, typeChips, escape, statBar, bstBar, fmt,
+  setTitle, spriteImg, typeChips, escape, statBar, bstBar, fmt, multiline, titleCase,
 } from "../ui.js";
+import { evolutionChain } from "../pokeapi.js";
 
 export async function render(params, root) {
   const pid = parseInt(params.id, 10);
@@ -77,7 +78,7 @@ export async function render(params, root) {
     <div class="detail-grid">
       <aside class="detail-side">
         <div class="detail-hero">
-          <div class="detail-hero__sprite">${spriteImg(pid, p.name)}</div>
+          <div class="detail-hero__sprite">${spriteImg(p.name)}</div>
           <div class="detail-hero__id">No.${id3}</div>
           <div class="detail-hero__name">${escape(p.name)}</div>
           <div class="detail-hero__types">${typeChips(p.type1, p.type2)}</div>
@@ -111,6 +112,11 @@ export async function render(params, root) {
       </aside>
 
       <div class="detail-main">
+        <div id="evo-chain" class="evo" hidden>
+          <h3 class="h-section" style="margin-top:0;">Evolution Line</h3>
+          <div class="evo__loading" style="font-size:1rem;color:var(--ink-mute);">Loading from PokeAPI…</div>
+        </div>
+
         ${altForms.length ? `
         <h3 class="h-section">Alt Forms</h3>
         <div class="cards" style="grid-template-columns:repeat(auto-fill,minmax(180px,1fr));">
@@ -122,7 +128,7 @@ export async function render(params, root) {
               <p style="font-size:.95rem;margin:.4rem 0 0;color:var(--ink-soft);text-align:left;">
                 BST ${f.stats?.bst ?? "—"} · ${f.stats?.hp}/${f.stats?.atk}/${f.stats?.def}/${f.stats?.spa}/${f.stats?.spd}/${f.stats?.spe}
               </p>
-              ${f.flavor ? `<p style="font-size:.9rem;margin:.4rem 0 0;color:var(--ink-mute);text-align:left;font-style:italic;">"${escape(f.flavor)}"</p>` : ""}
+              ${f.flavor ? `<p style="font-size:.9rem;margin:.4rem 0 0;color:var(--ink-mute);text-align:left;font-style:italic;">"${multiline(f.flavor)}"</p>` : ""}
             </div>
           `).join("")}
         </div>
@@ -197,6 +203,100 @@ export async function render(params, root) {
       </div>
     </div>
   `;
+
+  // Fetch evolution chain in the background and render when ready.
+  loadEvoChain(p, pokemon).catch((e) => console.warn(e));
+}
+
+// Translate the romhack `evolve` field into a display string. Returns null
+// if the value indicates no evolution.
+function reduxEvolveText(raw) {
+  if (raw == null) return null;
+  if (typeof raw === "number") {
+    return Number.isInteger(raw) ? `Lv ${raw}` : `Lv ${raw}`;
+  }
+  const s = String(raw).trim();
+  if (!s) return null;
+  if (/^n$/i.test(s)) return null; // 'n' = does not evolve further
+  // Numeric-only string → level
+  if (/^\d+(\.\d+)?$/.test(s)) {
+    const n = parseFloat(s);
+    return `Lv ${Number.isInteger(n) ? n : n.toFixed(0)}`;
+  }
+  // Otherwise it's a free-text rule (e.g. "By Stones", "38 \nF = Politoed\nM = Poliwrath")
+  // Normalize literal \n and real newlines.
+  return s.replace(/\\n/g, "\n");
+}
+
+async function loadEvoChain(currentPokemon, pokemonList) {
+  const wrap = document.getElementById("evo-chain");
+  if (!wrap) return;
+
+  // PokeAPI evolution chains key off the canonical species name. Use the
+  // CURRENT pokemon's name to find its canonical id and walk the chain.
+  const rawStages = await evolutionChain(currentPokemon.name);
+  if (!wrap.isConnected) return;
+
+  // Build name -> redux pokemon map (for local-id navigation + evolve override).
+  const byName = new Map();
+  for (const p of pokemonList) {
+    if (p.name) byName.set(normName(p.name), p);
+  }
+
+  // Filter to only species that exist in this romhack's dex. The romhack is
+  // the source of truth — if Pichu isn't here, we don't pretend Pikachu has
+  // a pre-evolution.
+  const stages = rawStages
+    .map((stage) => stage.filter((p) => byName.has(normName(p.name))))
+    .filter((stage) => stage.length > 0);
+
+  if (!stages || stages.length === 0 || (stages.length === 1 && stages[0].length <= 1)) {
+    wrap.hidden = true;
+    return;
+  }
+
+  wrap.hidden = false;
+  const stagesHtml = stages.map((stage, i) => {
+    const arrow = i === 0 ? "" : `<div class="evo__arrow" aria-hidden="true">▶</div>`;
+    const pkHtml = stage.map((p) => {
+      // Look up the romhack's local id for navigation. If a species in the
+      // canonical chain doesn't exist in this romhack's dex, we still show it
+      // but we don't link.
+      const romPkmn = byName.get(normName(p.name));
+      const localId = romPkmn?.id ?? null;
+      const isCurrent = romPkmn && currentPokemon && localId === currentPokemon.id;
+
+      const cls = `evo__node${isCurrent ? " evo__node--current" : ""}${!romPkmn ? " evo__node--missing" : ""}`;
+
+      // For non-base stages, the romhack condition lives on the PARENT's
+      // `evolve` field (parent's "how I evolve").
+      let condHtml = "";
+      if (i > 0 && p.parentName) {
+        const parent = byName.get(normName(p.parentName));
+        const reduxCond = reduxEvolveText(parent?.evolve);
+        if (reduxCond) {
+          condHtml = `<div class="evo__cond">${escape(reduxCond).replace(/\n/g, "<br>")}</div>`;
+        } else if (p.apiCond) {
+          condHtml = `<div class="evo__cond">${escape(p.apiCond)}</div>`;
+        }
+      }
+
+      const displayName = romPkmn?.name || titleCase(p.name || "");
+      const inner = `
+        <div class="sprite-mini">${spriteImg(p.name, displayName)}</div>
+        <div class="evo__name">${escape(displayName)}</div>
+        ${!romPkmn ? `<div class="evo__cond" style="color:var(--ink-mute);">(not in this romhack)</div>` : ""}
+        ${condHtml}
+      `;
+      return localId && !isCurrent
+        ? `<a class="${cls}" href="#/pokemon/${localId}">${inner}</a>`
+        : `<div class="${cls}">${inner}</div>`;
+    }).join("");
+    return `${arrow}<div class="evo__stage">${pkHtml}</div>`;
+  }).join("");
+  wrap.innerHTML = `<h3 class="h-section" style="margin-top:0;">Evolution Line</h3>
+    <div class="evo__chain">${stagesHtml}</div>
+    <p class="evo__src">Chain shape via PokeAPI · evolution method &amp; level from Redux v3.3 (the romhack tweaks both — e.g. Pikachu evolves at Lv 26, no Thunder Stone needed).</p>`;
 }
 
 function moveRow(name, level, byName) {

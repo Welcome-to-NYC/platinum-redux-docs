@@ -23,6 +23,7 @@ export async function render(params, root) {
         <h1 class="hero__title">PLATINUM<br>REDUX</h1>
         <p class="hero__sub">v3.3 docs · unofficial fan site</p>
         <p class="hero__lead">A browseable companion to the Platinum Redux romhack — every Pokémon's stats &amp; learnsets, every trainer team, every wild encounter, and every type-chart tweak.</p>
+        <p class="hero__notice">⚠ <strong>Not affiliated with the Platinum Redux team.</strong> This is an unofficial fan reference that just renders their public v3.3 docs.</p>
         <div class="hero__ctas">
           <a class="hero__cta" href="#/pokedex">Pokédex →</a>
           <a class="hero__cta hero__cta--ghost" href="#/walkthrough">Walkthrough</a>

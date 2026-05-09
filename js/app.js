@@ -1,4 +1,5 @@
 import { route, start } from "./router.js";
+import { ensureCanonicalMap } from "./data.js";
 
 import * as home from "./pages/home.js";
 import * as pokedex from "./pages/pokedex.js";
@@ -35,4 +36,6 @@ document.addEventListener("click", (e) => {
   }
 });
 
-start();
+// Preload the canonical name → PokeAPI id map so all subsequent sprite
+// renders can resolve synchronously.
+ensureCanonicalMap().finally(start);

@@ -41,7 +41,7 @@ async function areaCard(area, q) {
   const monsHtml = (await Promise.all(area.encounters.map(async (e) => {
     const id = await pkmnIdFromName(e.pokemon);
     const link = id ? `#/pokemon/${id}` : null;
-    const sprite = id ? spriteImg(id, e.pokemon) : "";
+    const sprite = spriteImg(e.pokemon);
     const inner = `
       <div class="sprite-mini">${sprite}</div>
       <div>

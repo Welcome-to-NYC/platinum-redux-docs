@@ -1,6 +1,6 @@
 // Shared UI helpers: type chips, sprite imgs, escape, etc.
 
-import { spriteUrl, spriteUrlFallback } from "./data.js";
+import { spriteUrl, spriteUrlFallback, getCanonicalMapSync, canonicalIdSync } from "./data.js";
 
 export function el(tag, attrs = {}, ...children) {
   const e = document.createElement(tag);
@@ -62,11 +62,21 @@ export function typeChips(t1, t2) {
 }
 
 // Pokemon sprite img with fallback to default sprite if Platinum sprite missing.
-export function spriteImg(id, name = "") {
-  const url = spriteUrl(id);
-  const fallback = spriteUrlFallback(id);
-  if (!url) return `<div class="sprite-empty"></div>`;
-  return `<img loading="lazy" decoding="async" src="${url}" alt="${escape(name || `#${id}`)}" onerror="this.onerror=null;this.src='${fallback}';">`;
+// `nameOrCanonicalId` is the species name (preferred) — we'll look up the
+// canonical PokeAPI id for sprites. If you already have the canonical id,
+// pass a number instead.
+export function spriteImg(nameOrCanonicalId, displayName = "") {
+  let canonId = null;
+  if (typeof nameOrCanonicalId === "number") {
+    canonId = nameOrCanonicalId;
+  } else if (typeof nameOrCanonicalId === "string") {
+    const map = getCanonicalMapSync();
+    canonId = canonicalIdSync(nameOrCanonicalId, map);
+  }
+  if (!canonId) return `<div class="sprite-empty"></div>`;
+  const url = spriteUrl(canonId);
+  const fallback = spriteUrlFallback(canonId);
+  return `<img loading="lazy" decoding="async" src="${url}" alt="${escape(displayName || nameOrCanonicalId || `#${canonId}`)}" onerror="this.onerror=null;this.src='${fallback}';">`;
 }
 
 // Title-case a name like "BULBASAUR" -> "Bulbasaur"
@@ -145,4 +155,11 @@ export function loadingHtml() {
 // Empty state
 export function empty(text = "Nothing here.") {
   return `<div class="empty">— ${escape(text)} —</div>`;
+}
+
+// Render multi-line text safely. Source data may contain literal `\n` (two
+// characters) or real newlines — both should become line breaks.
+export function multiline(s) {
+  if (s == null) return "";
+  return escape(String(s).replace(/\\n/g, "\n")).replace(/\n/g, "<br>");
 }

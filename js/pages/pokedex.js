@@ -94,7 +94,7 @@ function card(p) {
   return `
     <a class="card" href="#/pokemon/${p.id}">
       <div class="card__id">No.${id}</div>
-      <div class="card__sprite">${spriteImg(p.id, p.name)}</div>
+      <div class="card__sprite">${spriteImg(p.name)}</div>
       <div class="card__name">${escape(p.name)}</div>
       <div class="card__types">${typeChips(p.type1, p.type2)}</div>
     </a>`;

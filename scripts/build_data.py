@@ -521,8 +521,65 @@ def parse_docx_encounters():
     return out
 
 
+def fetch_canonical_ids():
+    """Fetch all species name → canonical national-dex id from PokeAPI.
+    Adds entries for the romhack's typo'd names. Saved as data/canonical_ids.json
+    so the site can map names to PokeAPI sprites/species correctly even when the
+    romhack has reshuffled local dex IDs."""
+    import urllib.request
+
+    print("Fetching canonical species list from PokeAPI…")
+    url = "https://pokeapi.co/api/v2/pokemon-species?limit=1300"
+    req = urllib.request.Request(url, headers={"User-Agent": "platinum-redux-docs build"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        data = json.load(r)
+
+    out = {}
+
+    def norm(s):
+        return re.sub(r"[^a-z0-9]", "", str(s).lower())
+
+    for entry in data["results"]:
+        name = entry["name"]  # already lowercase, hyphenated
+        m = re.match(r".*/(\d+)/?$", entry["url"])
+        if not m:
+            continue
+        cid = int(m.group(1))
+        out[norm(name)] = cid
+
+    # Aliases for romhack typos / hyphenless variants seen in the data
+    aliases = {
+        "nidoranf": 29, "nidoranm": 32,
+        "honchcrow": 430,    # typo: Honchkrow
+        "sandlash": 28,      # typo: Sandslash
+        "girationa": 487,    # Giratina (Origin form)
+        "slowping": 79,      # typo: Slowpoke
+        "annihilate": None,  # unknown / not a species
+        "corvisquire": 822,  # gen 8 species, valid
+        "molders": None,     # unknown
+        "pallosand": 770,    # Palossand
+        "hooh": 250,
+    }
+    for k, v in aliases.items():
+        if v is not None:
+            out[norm(k)] = v
+        elif norm(k) in out:
+            del out[norm(k)]
+
+    return out
+
+
 def main():
     wb = load_workbook()
+    try:
+        canonical = fetch_canonical_ids()
+        path = OUT / "canonical_ids.json"
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(canonical, f, ensure_ascii=False, separators=(",", ":"))
+        print(f"  canonical_ids.json: {path.stat().st_size:,} bytes, {len(canonical)} species")
+    except Exception as e:
+        print(f"  WARN: could not fetch canonical IDs: {e}")
+        print(f"  Site will fall back to romhack local IDs (sprites may be wrong for renumbered species).")
 
     datasets = {
         "pokemon": parse_pokemon(wb),

@@ -166,7 +166,7 @@ async function renderMatched(walkAreaName, matchedAreas) {
     const mons = await Promise.all(a.encounters.map(async (e) => {
       const id = await pkmnIdFromName(e.pokemon);
       const link = id ? `#/pokemon/${id}` : null;
-      const sprite = id ? spriteImg(id, e.pokemon) : "";
+      const sprite = spriteImg(e.pokemon);
       const inner = `
         <div class="sprite-mini">${sprite}</div>
         <div>

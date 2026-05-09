@@ -63,7 +63,7 @@ async function trainerCard(t) {
     const id = await pkmnIdFromName(m.pokemon);
     return `
       <div class="team__mon">
-        <div class="sprite-mini">${id ? spriteImg(id, m.pokemon) : ""}</div>
+        <div class="sprite-mini">${spriteImg(m.pokemon)}</div>
         <div class="team__info">
           <div class="team__name">${escape(m.pokemon)} <span class="team__lvl">Lv ${fmt(m.level)}</span></div>
           <div>${typeChips(m.type1, m.type2)}</div>
