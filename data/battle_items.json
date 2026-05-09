@@ -1,0 +1,176 @@
+[
+  {
+    "item": "Sitrus Berry",
+    "effect": "Heals HP when under 50% HP",
+    "value": 0.3,
+    "location": "Oreburgh"
+  },
+  {
+    "item": "Plates/Silk Scarf",
+    "effect": "Damage boost for matching type",
+    "value": 0.2,
+    "location": "Oreburgh"
+  },
+  {
+    "item": "Quick Claw",
+    "effect": "Makes user go first",
+    "value": 0.2,
+    "location": "Oreburgh"
+  },
+  {
+    "item": "Lum Berry",
+    "effect": "Cures any status condition",
+    "value": null,
+    "location": "Oreburgh"
+  },
+  {
+    "item": "Chesto Berry",
+    "effect": "Cures sleep",
+    "value": null,
+    "location": "Oreburgh"
+  },
+  {
+    "item": "Liechi Berry",
+    "effect": "Raises Atk when under 33%",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Petaya Berry",
+    "effect": "Raises SpAtk when under 33%",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Salac Berry",
+    "effect": "Raises Spe when under 33%",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Custap Berry",
+    "effect": "Goes first when under 33%",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Heat/Damp/Smooth/Icy Rock",
+    "effect": "Increases weather effect duration to 240 turns",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Light Clay",
+    "effect": "Increases duration of screens by 3 turns",
+    "value": null,
+    "location": "Eterna"
+  },
+  {
+    "item": "Wise Glasses",
+    "effect": "Increases SpAtk",
+    "value": 0.15,
+    "location": 208.0
+  },
+  {
+    "item": "Muscle Band",
+    "effect": "increases Atk",
+    "value": 0.15,
+    "location": 208.0
+  },
+  {
+    "item": "Type Weakness Berries",
+    "effect": "Halves damage from super effective attack",
+    "value": null,
+    "location": 208.0
+  },
+  {
+    "item": "Choice Scarf",
+    "effect": "Increases Spe but user can only use one move",
+    "value": 0.5,
+    "location": "Veilstone"
+  },
+  {
+    "item": "Choice Band",
+    "effect": "Increases Atk but user can only use one move",
+    "value": 0.25,
+    "location": "Veilstone"
+  },
+  {
+    "item": "Choice Specs",
+    "effect": "Increases SpAtk but user can only use one move",
+    "value": 0.25,
+    "location": "Veilstone"
+  },
+  {
+    "item": "Leftovers",
+    "effect": "Heals HP every turn",
+    "value": 0.0625,
+    "location": "Veilstone"
+  },
+  {
+    "item": "Big Root",
+    "effect": "Increases healing on absorption moves",
+    "value": 0.7,
+    "location": "Valor Lakefront"
+  },
+  {
+    "item": "Expert Belt",
+    "effect": "Increases super effective damage",
+    "value": 0.25,
+    "location": "Valor Lakefront"
+  },
+  {
+    "item": "Life Orb",
+    "effect": "Increases damage but user loses 10% HP after attacking",
+    "value": 0.25,
+    "location": "Valor Lakefront"
+  },
+  {
+    "item": "Shell Bell",
+    "effect": "Heals based on damage dealt",
+    "value": 0.2,
+    "location": "Valor Lakefront"
+  },
+  {
+    "item": "Zoom Lens",
+    "effect": "Increases accuracy when going second",
+    "value": 0.3,
+    "location": "Canalave"
+  },
+  {
+    "item": "Wide Lens",
+    "effect": "Increases accuracy",
+    "value": 0.15,
+    "location": "Canalave"
+  },
+  {
+    "item": "Bright Powder",
+    "effect": "Lowers opponents accuracy",
+    "value": 0.1,
+    "location": "Canalave"
+  },
+  {
+    "item": "Focus Sash",
+    "effect": "User lives one hit moves with 1 HP",
+    "value": null,
+    "location": "Canalave"
+  },
+  {
+    "item": "Scope Lens",
+    "effect": "Increases critical hit ratio",
+    "value": null,
+    "location": "Canalave"
+  },
+  {
+    "item": "Power Herb",
+    "effect": "Removes startup turn of 2 turn moves",
+    "value": null,
+    "location": 217.0
+  },
+  {
+    "item": "White Herb",
+    "effect": "Restores stats when lowered",
+    "value": null,
+    "location": 217.0
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "tm": 1.0,
+    "move": "Body Slam",
+    "single": "Veilstone Rock Climb",
+    "infinite": "League",
+    "category": "Physical"
+  },
+  {
+    "tm": 2.0,
+    "move": "Giga Impact",
+    "single": "Veilstone Galactic",
+    "infinite": "Victory Road",
+    "category": "Special"
+  },
+  {
+    "tm": 3.0,
+    "move": "Foul Water",
+    "single": "Small Marsh",
+    "infinite": "Canalave City",
+    "category": "Status"
+  },
+  {
+    "tm": 4.0,
+    "move": "Scam",
+    "single": 219.0,
+    "infinite": "Floaroma Town",
+    "category": null
+  },
+  {
+    "tm": 5.0,
+    "move": "Hyper Beam",
+    "single": 223.0,
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 6.0,
+    "move": "Mud-Slap",
+    "single": 203.0,
+    "infinite": "Floaroma Town",
+    "category": null
+  },
+  {
+    "tm": 7.0,
+    "move": "Brave Bird",
+    "single": "213 Rock Climb",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 8.0,
+    "move": "Rapid Spin",
+    "single": 202.0,
+    "infinite": "Floaroma Town",
+    "category": null
+  },
+  {
+    "tm": 9.0,
+    "move": "Nasty Plot",
+    "single": 216.0,
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 10.0,
+    "move": "Agility",
+    "single": 215.0,
+    "infinite": "Pastoria City",
+    "category": null
+  },
+  {
+    "tm": 11.0,
+    "move": "H2O Absorption",
+    "single": "Eterna Forest",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 12.0,
+    "move": "Aurora Beam",
+    "single": "Eterna Cliff",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 13.0,
+    "move": "Reflect",
+    "single": 205.0,
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 14.0,
+    "move": "Cross Poison",
+    "single": "Valor Lakefron",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 15.0,
+    "move": "Shock Wave",
+    "single": "Solaceon",
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 16.0,
+    "move": "Shadow Punch",
+    "single": "Solaceon",
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 17.0,
+    "move": "Toxic",
+    "single": 217.0,
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 18.0,
+    "move": "Draco Meteor",
+    "single": "210 Rock Climb",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 19.0,
+    "move": "Slack Off",
+    "single": "Oreburgh Tunnel Surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 20.0,
+    "move": "Haze",
+    "single": "Oreburgh Mine",
+    "infinite": "Eterna City",
+    "category": null
+  },
+  {
+    "tm": 21.0,
+    "move": "Light Screen",
+    "single": 205.0,
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 22.0,
+    "move": "Tailwind",
+    "single": "213 Surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 23.0,
+    "move": "Dark Pulse",
+    "single": "212 Surf",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 24.0,
+    "move": "Drill Run",
+    "single": "Jungle Path",
+    "infinite": "Pastoria City",
+    "category": null
+  },
+  {
+    "tm": 25.0,
+    "move": "Natural Gift",
+    "single": 214.0,
+    "infinite": "Celestic Town",
+    "category": null
+  },
+  {
+    "tm": 26.0,
+    "move": "Braindrain",
+    "single": "Eterna",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 27.0,
+    "move": "Seismic Toss",
+    "single": "Sandgem",
+    "infinite": "Oreburgh City",
+    "category": null
+  },
+  {
+    "tm": 28.0,
+    "move": "Swords Dance",
+    "single": "Coronet North",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 29.0,
+    "move": "Barrier",
+    "single": 209.0,
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 30.0,
+    "move": "Zen Headbutt",
+    "single": "Veilstone Galactic",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 31.0,
+    "move": "Calm Mind",
+    "single": 215.0,
+    "infinite": "Pastoria City",
+    "category": null
+  },
+  {
+    "tm": 32.0,
+    "move": "Dragon Breath",
+    "single": "Oreburgh Tunnel",
+    "infinite": "Eterna City",
+    "category": null
+  },
+  {
+    "tm": 33.0,
+    "move": "Magical Leaf",
+    "single": "Eterna Forest",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 34.0,
+    "move": "Aerial Ace",
+    "single": "Old Chateau",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 35.0,
+    "move": "Amnesia",
+    "single": 209.0,
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 36.0,
+    "move": "Thunder Wave",
+    "single": "Valor Lakefront Rock Climb",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 37.0,
+    "move": "Hail",
+    "single": 203.0,
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 38.0,
+    "move": "Signal Beam",
+    "single": "Eterna Galactic",
+    "infinite": "Jungle Path",
+    "category": null
+  },
+  {
+    "tm": 39.0,
+    "move": "Sludge",
+    "single": "Ravaged Path",
+    "infinite": "Eterna City",
+    "category": null
+  },
+  {
+    "tm": 40.0,
+    "move": "Bulk Up",
+    "single": 215.0,
+    "infinite": "Pastoria City",
+    "category": null
+  },
+  {
+    "tm": 41.0,
+    "move": "Flare Blitz",
+    "single": 212.0,
+    "infinite": 217.0,
+    "category": null
+  },
+  {
+    "tm": 42.0,
+    "move": "Tectonic Shift",
+    "single": "208 rock climb",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 43.0,
+    "move": "Flame Charge",
+    "single": "wayward cave",
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 44.0,
+    "move": "Will-O-Wisp",
+    "single": "Valor Lakefront rock climb",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 45.0,
+    "move": "U-Turn",
+    "single": "wayward cave",
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 46.0,
+    "move": "Sandstorm",
+    "single": 207.0,
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 47.0,
+    "move": "Rock Tomb",
+    "single": 204.0,
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 48.0,
+    "move": "Power Gem",
+    "single": "coronet north",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 49.0,
+    "move": "Power Whip",
+    "single": 211.0,
+    "infinite": 217.0,
+    "category": null
+  },
+  {
+    "tm": 50.0,
+    "move": "Stone Edge",
+    "single": "208 waterfall",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 51.0,
+    "move": "Knock Off",
+    "single": "Great Marsh",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 52.0,
+    "move": "Brick Break",
+    "single": "Great Marsh",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 53.0,
+    "move": "Blast Burn",
+    "single": 222.0,
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 54.0,
+    "move": "Wish",
+    "single": "Jubilife Lakes surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 55.0,
+    "move": "Scald",
+    "single": "5. badge",
+    "infinite": 217.0,
+    "category": null
+  },
+  {
+    "tm": 56.0,
+    "move": "Hydro Cannon",
+    "single": 223.0,
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 57.0,
+    "move": "Charge Beam",
+    "single": "8. badge",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 58.0,
+    "move": "Bug Buzz",
+    "single": "216 rock climb",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 59.0,
+    "move": "Frenzy Plant",
+    "single": 222.0,
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 60.0,
+    "move": "Drain Punch",
+    "single": "4. badge",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 61.0,
+    "move": "Earthquake",
+    "single": "valley windwork surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 62.0,
+    "move": "Ominous Wind",
+    "single": 208.0,
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 63.0,
+    "move": "Shadow Ball",
+    "single": "ravaged path surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 64.0,
+    "move": "Psychic",
+    "single": "coronet surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 65.0,
+    "move": "Shadow Claw",
+    "single": "3. badge",
+    "infinite": "Celestic Town",
+    "category": null
+  },
+  {
+    "tm": 66.0,
+    "move": "Silver Wind",
+    "single": "Coronet",
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 67.0,
+    "move": "Rain dance",
+    "single": "Oreburgh Tunnel",
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 68.0,
+    "move": "Thunderbolt",
+    "single": "maniac tunnel",
+    "infinite": "Celestic Town",
+    "category": null
+  },
+  {
+    "tm": 69.0,
+    "move": "Volt Tackle",
+    "single": "210 waterfall",
+    "infinite": "League",
+    "category": null
+  },
+  {
+    "tm": 70.0,
+    "move": "Ancient Power",
+    "single": 207.0,
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 71.0,
+    "move": "Astonish",
+    "single": 219.0,
+    "infinite": "Oreburgh City",
+    "category": null
+  },
+  {
+    "tm": 72.0,
+    "move": "Ice Burn",
+    "single": "7. badge",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 73.0,
+    "move": "Pluck",
+    "single": "Verity Lakefront",
+    "infinite": "Oreburgh City",
+    "category": null
+  },
+  {
+    "tm": 74.0,
+    "move": "Ice Beam",
+    "single": "maniac tunnel",
+    "infinite": "Celestic Town",
+    "category": null
+  },
+  {
+    "tm": 75.0,
+    "move": "Flamethrower",
+    "single": "maniac tunnel",
+    "infinite": "Celestic Town",
+    "category": null
+  },
+  {
+    "tm": 76.0,
+    "move": "Stealth Rock",
+    "single": "1. badge",
+    "infinite": "Eterna City",
+    "category": null
+  },
+  {
+    "tm": 77.0,
+    "move": "Volt Switch",
+    "single": "wayward cave",
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 78.0,
+    "move": "Magnet Bomb",
+    "single": 210.0,
+    "infinite": 217.0,
+    "category": null
+  },
+  {
+    "tm": 79.0,
+    "move": "Focus Blast",
+    "single": "211 rock climb",
+    "infinite": "Victory Road",
+    "category": null
+  },
+  {
+    "tm": 80.0,
+    "move": "Iron Head",
+    "single": "Solaceon ruins",
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 81.0,
+    "move": "Giga Drain",
+    "single": "221 surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 82.0,
+    "move": "Draconic Slam",
+    "single": "Veilstone",
+    "infinite": "Pastoria City",
+    "category": null
+  },
+  {
+    "tm": 83.0,
+    "move": "Sludge Bomb",
+    "single": "trophy garden",
+    "infinite": "Canalave City",
+    "category": null
+  },
+  {
+    "tm": 84.0,
+    "move": "Heat Wave",
+    "single": "209 surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 85.0,
+    "move": "Freeze Strike",
+    "single": "iron island",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 86.0,
+    "move": "Grass Knot",
+    "single": "2. badge",
+    "infinite": 213.0,
+    "category": null
+  },
+  {
+    "tm": 87.0,
+    "move": "Dragon Rage",
+    "single": "Small Marsh surf",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 88.0,
+    "move": "Sunny day",
+    "single": "Oreburgh Tunnel",
+    "infinite": "Hearthome City",
+    "category": null
+  },
+  {
+    "tm": 89.0,
+    "move": "X-Scissor",
+    "single": "trophy garden",
+    "infinite": 217.0,
+    "category": null
+  },
+  {
+    "tm": 90.0,
+    "move": "Rest",
+    "single": 207.0,
+    "infinite": "Veilstone City",
+    "category": null
+  },
+  {
+    "tm": 91.0,
+    "move": "Flash Cannon",
+    "single": "6. badge",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": 92.0,
+    "move": "Mystical Mist",
+    "single": "canalave",
+    "infinite": 222.0,
+    "category": null
+  },
+  {
+    "tm": "HM 1",
+    "move": "Cut",
+    "single": "Eterna",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 2",
+    "move": "Fly",
+    "single": "Veilstone",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 3",
+    "move": "Surf",
+    "single": "Celestic",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 4",
+    "move": "Strength",
+    "single": "Iron Island",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 5",
+    "move": "Heavy Storm",
+    "single": "Solaceon Ruins",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 6",
+    "move": "Rock Smash",
+    "single": "Oreburgh Gate",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 7",
+    "move": "Waterfall",
+    "single": "Sunyshore",
+    "infinite": null,
+    "category": null
+  },
+  {
+    "tm": "HM 8",
+    "move": "Rock Climb",
+    "single": 217.0,
+    "infinite": null,
+    "category": null
+  }
+]

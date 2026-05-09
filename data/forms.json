@@ -1,0 +1,2700 @@
+[
+  {
+    "id": 3.0,
+    "name": "VENUSAUR",
+    "type1": "Grass",
+    "type2": "Water",
+    "stats": {
+      "hp": 106,
+      "atk": 78,
+      "def": 90,
+      "spa": 108,
+      "spd": 102,
+      "spe": 58,
+      "bst": 542
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "After a rainy day, the flower on\\nits back smells stronger. Its\\nnatural habiats are swamps and bogs."
+  },
+  {
+    "id": 6.0,
+    "name": "CHARIZARD",
+    "type1": "Fire",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 90,
+      "atk": 108,
+      "def": 77,
+      "spa": 126,
+      "spd": 85,
+      "spe": 104,
+      "bst": 590
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It is said that Charizard's dragon\\nfire burns hotter if it\\nhas experienced harsh battles."
+  },
+  {
+    "id": 9.0,
+    "name": "BLASTOISE",
+    "type1": "Water",
+    "type2": "Rock",
+    "stats": {
+      "hp": 102,
+      "atk": 81,
+      "def": 115,
+      "spa": 120,
+      "spd": 78,
+      "spe": 53,
+      "bst": 549
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Blastoise has water spouts that\\nprotrude from its rocky shell\\nwith enormous pressure."
+  },
+  {
+    "id": 12.0,
+    "name": "BUTTERFREE",
+    "type1": "Bug",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 85,
+      "atk": 60,
+      "def": 75,
+      "spa": 114,
+      "spd": 102,
+      "spe": 94,
+      "bst": 530
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "In battle, it flaps its wings at high\\nspeed to release highly\\nhallucinogenic dust into the air."
+  },
+  {
+    "id": 20.0,
+    "name": "RATICATE",
+    "type1": "Normal",
+    "type2": "Dark",
+    "stats": {
+      "hp": 95,
+      "atk": 94,
+      "def": 78,
+      "spa": 60,
+      "spd": 88,
+      "spe": 111,
+      "bst": 526
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "With its long fangs, this surprisingly\\nviolent Pokémon can gnaw away\\neven thick concrete with ease."
+  },
+  {
+    "id": 22.0,
+    "name": "FEAROW",
+    "type1": "Flying",
+    "type2": "Electric",
+    "stats": {
+      "hp": 80,
+      "atk": 113,
+      "def": 88,
+      "spa": 61,
+      "spd": 80,
+      "spe": 119,
+      "bst": 541
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Fearow has the stamina to fly all day\\non its broad wings. It chases\\nthunderstorms across the land."
+  },
+  {
+    "id": 24.0,
+    "name": "ARBOK",
+    "type1": "Poison",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 98,
+      "atk": 116,
+      "def": 75,
+      "spa": 68,
+      "spd": 88,
+      "spe": 83,
+      "bst": 528
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "To intimidate foes, Arbok spreads its\\nchest wide making roaring sounds\\nby expelling air from its mouth."
+  },
+  {
+    "id": 26.0,
+    "name": "RAICHU",
+    "type1": "Electric",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 75,
+      "spa": 115,
+      "spd": 88,
+      "spe": 105,
+      "bst": 548
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its electric charges can reach even\\n100,000 volts. Raichu controls\\nelectric bolts with its mind."
+  },
+  {
+    "id": 28.0,
+    "name": "SANDSLASH",
+    "type1": "Ground",
+    "type2": "Ice",
+    "stats": {
+      "hp": 91,
+      "atk": 121,
+      "def": 125,
+      "spa": 60,
+      "spd": 86,
+      "spe": 86,
+      "bst": 569
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It runs across snow-covered plains\\nat high speeds. It developed sharp\\nclaws to plow through the snow."
+  },
+  {
+    "id": 34.0,
+    "name": "NIDOKING",
+    "type1": "Poison",
+    "type2": "Ice",
+    "stats": {
+      "hp": 111,
+      "atk": 88,
+      "def": 94,
+      "spa": 100,
+      "spd": 79,
+      "spe": 71,
+      "bst": 543
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Has an ice-cold hide that is worn\\nlike armor. The long horn on its head\\nis sharp and highly venomous."
+  },
+  {
+    "id": 36.0,
+    "name": "CLEFABLE",
+    "type1": "Normal",
+    "type2": "Steel",
+    "stats": {
+      "hp": 107,
+      "atk": 77,
+      "def": 88,
+      "spa": 87,
+      "spd": 104,
+      "spe": 63,
+      "bst": 526
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Rarely seen by people, it is said\\nto be drawn by the full moon to\\nplay at deserted lakes."
+  },
+  {
+    "id": 38.0,
+    "name": "NINETALES",
+    "type1": "Fire",
+    "type2": "Ice",
+    "stats": {
+      "hp": 83,
+      "atk": 61,
+      "def": 80,
+      "spa": 129,
+      "spd": 113,
+      "spe": 94,
+      "bst": 560
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its nine tails are said to be imbued\\nwith a mystic power. People call\\nits howling the Song of Ice and Fire."
+  },
+  {
+    "id": 40.0,
+    "name": "WIGGLYTUFF",
+    "type1": "Normal",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 145,
+      "atk": 82,
+      "def": 70,
+      "spa": 76,
+      "spd": 85,
+      "spe": 71,
+      "bst": 529
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When angered, it will expand\\nits mouth to an unnatural extend\\nready to devour its enemies."
+  },
+  {
+    "id": 49.0,
+    "name": "VENOMOTH",
+    "type1": "Bug",
+    "type2": "Fire",
+    "stats": {
+      "hp": 81,
+      "atk": 60,
+      "def": 83,
+      "spa": 124,
+      "spd": 99,
+      "spe": 98,
+      "bst": 545
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The scales it scatters will\\nincinerate anyone who touches\\nthem causing third-degree burns."
+  },
+  {
+    "id": 51.0,
+    "name": "DUGTRIO",
+    "type1": "Ground",
+    "type2": "Normal",
+    "stats": {
+      "hp": 75,
+      "atk": 107,
+      "def": 76,
+      "spa": 91,
+      "spd": 87,
+      "spe": 131,
+      "bst": 567
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its three heads move alternately,\\ndriving it through tough soil,\\nasphalt and even concrete."
+  },
+  {
+    "id": 53.0,
+    "name": "PERSIAN",
+    "type1": "Normal",
+    "type2": "Dark",
+    "stats": {
+      "hp": 83,
+      "atk": 113,
+      "def": 91,
+      "spa": 61,
+      "spd": 79,
+      "spe": 124,
+      "bst": 551
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It is highly regarded as a pet for its\\nbeautiful fur. However, it is awfully\\nvicious and difficult to keep."
+  },
+  {
+    "id": 55.0,
+    "name": "GOLDUCK",
+    "type1": "Water",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 80,
+      "spa": 114,
+      "spd": 105,
+      "spe": 85,
+      "bst": 549
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When its forehead shines brightly,\\nGolduck can use its mysterious\\npower to cause nightmares."
+  },
+  {
+    "id": 59.0,
+    "name": "ARCANINE",
+    "type1": "Fire",
+    "type2": "Normal",
+    "stats": {
+      "hp": 100,
+      "atk": 115,
+      "def": 85,
+      "spa": 100,
+      "spd": 90,
+      "spe": 100,
+      "bst": 590
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Legends tell of its fighting\\nalongside a human army and\\nconquering whole countries."
+  },
+  {
+    "id": 65.0,
+    "name": "ALAKAZAM",
+    "type1": "Psychic",
+    "type2": "Fire",
+    "stats": {
+      "hp": 75,
+      "atk": 60,
+      "def": 75,
+      "spa": 140,
+      "spd": 100,
+      "spe": 95,
+      "bst": 545
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its continually growing brain\\nenables it to perform pyromancy,\\nmind control and telepathy."
+  },
+  {
+    "id": 68.0,
+    "name": "MACHAMP",
+    "type1": "Fighting",
+    "type2": "Rock",
+    "stats": {
+      "hp": 105,
+      "atk": 136,
+      "def": 85,
+      "spa": 60,
+      "spd": 95,
+      "spe": 79,
+      "bst": 560
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The energy that courses\\nthrough its new arms enables\\nit to reduce boulders to dust."
+  },
+  {
+    "id": 71.0,
+    "name": "VICTREEBEL",
+    "type1": "Grass",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 103,
+      "atk": 117,
+      "def": 79,
+      "spa": 97,
+      "spd": 87,
+      "spe": 71,
+      "bst": 554
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "If you find that the jungle\\naround you has fallen silent,\\nbe wary. Victreebel is near."
+  },
+  {
+    "id": 78.0,
+    "name": "RAPIDASH",
+    "type1": "Fire",
+    "type2": "Electric",
+    "stats": {
+      "hp": 95,
+      "atk": 110,
+      "def": 85,
+      "spa": 85,
+      "spd": 72,
+      "spe": 117,
+      "bst": 564
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The thunderous kicks of this\\nmighty steed are said to carry\\nthe fury of storms."
+  },
+  {
+    "id": 83.0,
+    "name": "SIRFETCH´D",
+    "type1": "Fighting",
+    "type2": "Flying",
+    "stats": {
+      "hp": 84,
+      "atk": 133,
+      "def": 77,
+      "spa": 60,
+      "spd": 102,
+      "spe": 84,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "A stalwart combatant.\\nIt will remain standing against\\nadversity, no matter what."
+  },
+  {
+    "id": 85.0,
+    "name": "DODRIO",
+    "type1": "Ground",
+    "type2": "Flying",
+    "stats": {
+      "hp": 88,
+      "atk": 110,
+      "def": 75,
+      "spa": 60,
+      "spd": 85,
+      "spe": 107,
+      "bst": 525
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The three heads of this bird\\nPokémon allow it to remain\\noriented even in a sandstorm."
+  },
+  {
+    "id": 87.0,
+    "name": "DEWGONG",
+    "type1": "Ground",
+    "type2": "Ice",
+    "stats": {
+      "hp": 129,
+      "atk": 89,
+      "def": 85,
+      "spa": 83,
+      "spd": 100,
+      "spe": 74,
+      "bst": 560
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It dives only when seeking food.\\nIt is otherwise content\\nwith sunbathing on the beach."
+  },
+  {
+    "id": 89.0,
+    "name": "MUK",
+    "type1": "Poison",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 122,
+      "atk": 98,
+      "def": 82,
+      "spa": 89,
+      "spd": 104,
+      "spe": 51,
+      "bst": 546
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Runoff from factories near the\\nthree lakes has given rise to\\nan especially aware sludge."
+  },
+  {
+    "id": 97.0,
+    "name": "HYPNO",
+    "type1": "Psychic",
+    "type2": "Normal",
+    "stats": {
+      "hp": 88,
+      "atk": 90,
+      "def": 78,
+      "spa": 99,
+      "spd": 111,
+      "spe": 86,
+      "bst": 552
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Resolving to use its\\npowers for good, it helps\\napprehend evildoers."
+  },
+  {
+    "id": 99.0,
+    "name": "KINGLER",
+    "type1": "Water",
+    "type2": "Steel",
+    "stats": {
+      "hp": 83,
+      "atk": 139,
+      "def": 115,
+      "spa": 66,
+      "spd": 77,
+      "spe": 61,
+      "bst": 541
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Metal ions within seawater\\nhave been extracted and\\nformed into its larger claw."
+  },
+  {
+    "id": 101.0,
+    "name": "ELECTRODE",
+    "type1": "Electric",
+    "type2": "Rock",
+    "stats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 83,
+      "spa": 95,
+      "spd": 77,
+      "spe": 150,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "By rolling over specific surfaces, it\\ncharges electric energy. The longer\\nit charges, the faster it rolls."
+  },
+  {
+    "id": 105.0,
+    "name": "MAROWAK",
+    "type1": "Ground",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 88,
+      "atk": 125,
+      "def": 115,
+      "spa": 65,
+      "spd": 86,
+      "spe": 76,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Even in death, Marowak slips into the physical world to protect its youth."
+  },
+  {
+    "id": 106.0,
+    "name": "HITMONLEE",
+    "type1": "Fighting",
+    "type2": "Dark",
+    "stats": {
+      "hp": 76,
+      "atk": 120,
+      "def": 82,
+      "spa": 60,
+      "spd": 108,
+      "spe": 99,
+      "bst": 545
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Wily tricks and fake-outs\\nare common when dealing with\\nthis Pokémon. Stay alert!"
+  },
+  {
+    "id": 107.0,
+    "name": "HITMONCHAN",
+    "type1": "Fighting",
+    "type2": "Ice",
+    "stats": {
+      "hp": 76,
+      "atk": 112,
+      "def": 117,
+      "spa": 60,
+      "spd": 103,
+      "spe": 87,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Training on cold mountains for\\nmany years, it returns to its\\nhome a wisened warrior."
+  },
+  {
+    "id": 110.0,
+    "name": "WEEZING",
+    "type1": "Poison",
+    "type2": "Electric",
+    "stats": {
+      "hp": 105,
+      "atk": 60,
+      "def": 110,
+      "spa": 95,
+      "spd": 83,
+      "spe": 61,
+      "bst": 514
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Volatile charges course\\nthroughout its body. If one\\ngets too close, it explodes."
+  },
+  {
+    "id": 115.0,
+    "name": "KANGASKHAN",
+    "type1": "Rock",
+    "type2": "Normal",
+    "stats": {
+      "hp": 114,
+      "atk": 120,
+      "def": 95,
+      "spa": 65,
+      "spd": 82,
+      "spe": 81,
+      "bst": 557
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Withing the Sinnoh region,\\nKangaskhan have adapted new\\nprotections for their young."
+  },
+  {
+    "id": 122.0,
+    "name": "MR. MIME",
+    "type1": "Psychic",
+    "type2": "Ice",
+    "stats": {
+      "hp": 76,
+      "atk": 61,
+      "def": 92,
+      "spa": 119,
+      "spd": 126,
+      "spe": 96,
+      "bst": 570
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It can radiate chilliness from the\\nbottoms of its feet. It'll spend\\nthe whole day tap-dancing on ice."
+  },
+  {
+    "id": 127.0,
+    "name": "PINSIR",
+    "type1": "Bug",
+    "type2": "Dark",
+    "stats": {
+      "hp": 90,
+      "atk": 120,
+      "def": 95,
+      "spa": 62,
+      "spd": 80,
+      "spe": 95,
+      "bst": 542
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "A savage Pokémon that hunts\\nin tall grass. Its outward\\nappearance belies its guile."
+  },
+  {
+    "id": 128.0,
+    "name": "TAUROS",
+    "type1": "Normal",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 93,
+      "atk": 127,
+      "def": 92,
+      "spa": 60,
+      "spd": 73,
+      "spe": 106,
+      "bst": 551
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "There is a folktale of the sun\\nbeing pulled along the sky by\\na head of Tauros."
+  },
+  {
+    "id": 130.0,
+    "name": "GYARADOS",
+    "type1": "Water",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 101,
+      "atk": 126,
+      "def": 75,
+      "spa": 82,
+      "spd": 90,
+      "spe": 91,
+      "bst": 565
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The fury it has endured\\nas a Magikarp has resulted\\nin its ascending to legend."
+  },
+  {
+    "id": 131.0,
+    "name": "LAPRAS",
+    "type1": "Ice",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 120,
+      "atk": 75,
+      "def": 95,
+      "spa": 111,
+      "spd": 110,
+      "spe": 54,
+      "bst": 565
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its signature song was dubbed\\n\"Aria of Dragons\" by sailors\\nlucky enough to hear it."
+  },
+  {
+    "id": 134.0,
+    "name": "VAPOREON",
+    "type1": "Water",
+    "type2": "Poison",
+    "stats": {
+      "hp": 125,
+      "atk": 60,
+      "def": 80,
+      "spa": 110,
+      "spd": 90,
+      "spe": 75,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It can liquefy its body\\nand slip through any crack,\\nno matter how small."
+  },
+  {
+    "id": 135.0,
+    "name": "JOLTEON",
+    "type1": "Electric",
+    "type2": "Bug",
+    "stats": {
+      "hp": 75,
+      "atk": 60,
+      "def": 90,
+      "spa": 110,
+      "spd": 80,
+      "spe": 125,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Quick reflexes are enabled\\nby pressure-based triggers not\\nunlike those found in insects."
+  },
+  {
+    "id": 136.0,
+    "name": "FLAREON",
+    "type1": "Fire",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 80,
+      "atk": 125,
+      "def": 75,
+      "spa": 60,
+      "spd": 110,
+      "spe": 90,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Said to have an incredible\\nsense of direction, it guides\\nboth travelers and souls."
+  },
+  {
+    "id": 139.0,
+    "name": "OMASTAR",
+    "type1": "Water",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 89,
+      "atk": 67,
+      "def": 126,
+      "spa": 112,
+      "spd": 85,
+      "spe": 73,
+      "bst": 552
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It was revered in antiquity as\\na god. Its many arms drag prey\\nto depths light cannot reach."
+  },
+  {
+    "id": 141.0,
+    "name": "KABUTOPS",
+    "type1": "Ghost",
+    "type2": "Rock",
+    "stats": {
+      "hp": 84,
+      "atk": 131,
+      "def": 110,
+      "spa": 65,
+      "spd": 74,
+      "spe": 89,
+      "bst": 553
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "An archaic apex predator.\\nThe current ecosystem is ill\\nprepared for its presence."
+  },
+  {
+    "id": 143.0,
+    "name": "SNORLAX",
+    "type1": "Normal",
+    "type2": "Grass",
+    "stats": {
+      "hp": 150,
+      "atk": 100,
+      "def": 70,
+      "spa": 60,
+      "spd": 95,
+      "spe": 50,
+      "bst": 525
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Photosynthesis enables\\nthis hulking beast to feed\\nwithout lifting even a finger."
+  },
+  {
+    "id": 149.0,
+    "name": "DRAGONITE",
+    "type1": "Dragon",
+    "type2": "Normal",
+    "stats": {
+      "hp": 120,
+      "atk": 105,
+      "def": 90,
+      "spa": 95,
+      "spd": 108,
+      "spe": 72,
+      "bst": 590
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Dragonite is often seen guiding\\ncrews of shipwrecks to shore.\\nIt is very friendly with children."
+  },
+  {
+    "id": 150.0,
+    "name": "MEWTWO",
+    "type1": "Psychic",
+    "type2": "Normal",
+    "stats": {
+      "hp": 85,
+      "atk": 95,
+      "def": 80,
+      "spa": 150,
+      "spd": 95,
+      "spe": 95,
+      "bst": 600
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Modeled after humans, Mewtwo was\\ncreated after years of horrific\\ngene splicing and DNA engineering."
+  },
+  {
+    "id": 151.0,
+    "name": "MEW",
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 95,
+      "spa": 110,
+      "spd": 105,
+      "spe": 110,
+      "bst": 570
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its psychic power has detected\\nthe presence of another and\\nadapted its body accordingly."
+  },
+  {
+    "id": 154.0,
+    "name": "MEGANIUM",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 125,
+      "atk": 75,
+      "def": 100,
+      "spa": 100,
+      "spd": 85,
+      "spe": 62,
+      "bst": 547
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "This prehistoric Pokémon travels to\\nlocations devastated by fires,\\nrestoring vegetation in its wake.\\n"
+  },
+  {
+    "id": 157.0,
+    "name": "TYPHLOSION",
+    "type1": "Fire",
+    "type2": "Poison",
+    "stats": {
+      "hp": 88,
+      "atk": 65,
+      "def": 83,
+      "spa": 127,
+      "spd": 100,
+      "spe": 82,
+      "bst": 545
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Residue from its explosions\\nhas been postulated to be a\\nrenewable, viable fuel source."
+  },
+  {
+    "id": 160.0,
+    "name": "FERALIGATR",
+    "type1": "Water",
+    "type2": "Dark",
+    "stats": {
+      "hp": 90,
+      "atk": 119,
+      "def": 93,
+      "spa": 74,
+      "spd": 79,
+      "spe": 84,
+      "bst": 539
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Feraligatr intimidates its foes\\nby opening its huge mouth.\\nIt attacks viciously without mercy."
+  },
+  {
+    "id": 162.0,
+    "name": "FURRET",
+    "type1": "Normal",
+    "type2": "Fire",
+    "stats": {
+      "hp": 93,
+      "atk": 97,
+      "def": 76,
+      "spa": 72,
+      "spd": 95,
+      "spe": 128,
+      "bst": 561
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "In cold desert nights,\\nthe mother warms its offspring\\nby curling up around them."
+  },
+  {
+    "id": 164.0,
+    "name": "NOCTOWL",
+    "type1": "Ghost",
+    "type2": "Flying",
+    "stats": {
+      "hp": 110,
+      "atk": 71,
+      "def": 80,
+      "spa": 95,
+      "spd": 105,
+      "spe": 79,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its eyes are specially developed\\nto see clearly in murky nights.\\nIt preys on sleeping targets."
+  },
+  {
+    "id": 166.0,
+    "name": "LEDIAN",
+    "type1": "Bug",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 73,
+      "atk": 108,
+      "def": 81,
+      "spa": 60,
+      "spd": 98,
+      "spe": 123,
+      "bst": 543
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Many children's shows star\\nthis tenacious insect. It is\\njust as heroic as they portray."
+  },
+  {
+    "id": 168.0,
+    "name": "ARIADOS",
+    "type1": "Bug",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 77,
+      "atk": 117,
+      "def": 83,
+      "spa": 82,
+      "spd": 98,
+      "spe": 93,
+      "bst": 550
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Every night, it wanders around\\nin search of prey. It is able\\nto trap small children in its web."
+  },
+  {
+    "id": 181.0,
+    "name": "AMPHAROS",
+    "type1": "Electric",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 95,
+      "atk": 74,
+      "def": 83,
+      "spa": 140,
+      "spd": 98,
+      "spe": 65,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Massive amounts of energy\\nstimulate its cells, awakening its\\nlong-sleeping dragon's blood."
+  },
+  {
+    "id": 182.0,
+    "name": "BELLOSSOM",
+    "type1": "Grass",
+    "type2": "Fire",
+    "stats": {
+      "hp": 75,
+      "atk": 60,
+      "def": 85,
+      "spa": 97,
+      "spd": 105,
+      "spe": 85,
+      "bst": 507
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When Bellossom gets exposed to\\nplenty of sunlight, it expulses\\nsolar energy in fiery bursts."
+  },
+  {
+    "id": 184.0,
+    "name": "AZUMARILL",
+    "type1": "Water",
+    "type2": "Normal",
+    "stats": {
+      "hp": 120,
+      "atk": 110,
+      "def": 80,
+      "spa": 70,
+      "spd": 95,
+      "spe": 74,
+      "bst": 549
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Having grown out of its\\nadolescent moodiness, it\\nrediscovers childlike glee."
+  },
+  {
+    "id": 185.0,
+    "name": "SUDOWOODO",
+    "type1": "Rock",
+    "type2": "Grass",
+    "stats": {
+      "hp": 85,
+      "atk": 118,
+      "def": 120,
+      "spa": 82,
+      "spd": 95,
+      "spe": 56,
+      "bst": 556
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It has become the mask.\\nIn remaining still for so long,\\nreal plants have grown on it."
+  },
+  {
+    "id": 186.0,
+    "name": "POLITOED",
+    "type1": "Water",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 91,
+      "atk": 62,
+      "def": 80,
+      "spa": 96,
+      "spd": 105,
+      "spe": 77,
+      "bst": 511
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Politoed establishes a mental bond\\nwith Poliwag to lead the group in\\nsearch for the perfect pond."
+  },
+  {
+    "id": 192.0,
+    "name": "SUNFLORA",
+    "type1": "Grass",
+    "type2": "Fire",
+    "stats": {
+      "hp": 95,
+      "atk": 60,
+      "def": 75,
+      "spa": 117,
+      "spd": 108,
+      "spe": 75,
+      "bst": 530
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It gets energy from warm sunlight\\nand incinerates rivaling\\nplants in its vicinity."
+  },
+  {
+    "id": 196.0,
+    "name": "ESPEON",
+    "type1": "Psychic",
+    "type2": "Rock",
+    "stats": {
+      "hp": 80,
+      "atk": 60,
+      "def": 75,
+      "spa": 125,
+      "spd": 90,
+      "spe": 110,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It is though to commune with\\ncelestial bodies in hopes of\\nforetelling future events."
+  },
+  {
+    "id": 197.0,
+    "name": "UMBREON",
+    "type1": "Dark",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 110,
+      "spa": 85,
+      "spd": 125,
+      "spe": 70,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When darkness falls, this\\nnocturnal predator relentlessly\\nhunts its helpless prey."
+  },
+  {
+    "id": 199.0,
+    "name": "SLOWKING",
+    "type1": "Water",
+    "type2": "Bug",
+    "stats": {
+      "hp": 115,
+      "atk": 100,
+      "def": 110,
+      "spa": 70,
+      "spd": 85,
+      "spe": 51,
+      "bst": 531
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The parasite on its head slowly\\ninfiltrates Slowbro´s body and mind\\nuntil it takes complete control."
+  },
+  {
+    "id": 213.0,
+    "name": "SHUCKLE",
+    "type1": "Rock",
+    "type2": "Poison",
+    "stats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 135,
+      "spa": 75,
+      "spd": 135,
+      "spe": 51,
+      "bst": 531
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It stores berries in its shell.\\nThe berries eventually ferment to\\nbecome poisonous juices."
+  },
+  {
+    "id": 217.0,
+    "name": "URSARING",
+    "type1": "Normal",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 105,
+      "atk": 105,
+      "def": 96,
+      "spa": 60,
+      "spd": 83,
+      "spe": 81,
+      "bst": 530
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Ursaring leaves scratches\\non trees to warn everyone not\\nto enter its territory."
+  },
+  {
+    "id": 224.0,
+    "name": "OCTILLERY",
+    "type1": "Water",
+    "type2": "Steel",
+    "stats": {
+      "hp": 74,
+      "atk": 60,
+      "def": 105,
+      "spa": 127,
+      "spd": 115,
+      "spe": 53,
+      "bst": 534
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Besides blinding ink and bursts of water,\\nOctillery can shoot waste it collects\\nfrom the ocean floor."
+  },
+  {
+    "id": 232.0,
+    "name": "DONPHAN",
+    "type1": "Ground",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 95,
+      "atk": 118,
+      "def": 115,
+      "spa": 64,
+      "spd": 72,
+      "spe": 83,
+      "bst": 547
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Male Donphans regularly fight each\\nother to assert dominance in the\\nherd. Its Tackle demolishes houses."
+  },
+  {
+    "id": 234.0,
+    "name": "STANTLER",
+    "type1": "Normal",
+    "type2": "Grass",
+    "stats": {
+      "hp": 105,
+      "atk": 95,
+      "def": 79,
+      "spa": 85,
+      "spd": 103,
+      "spe": 83,
+      "bst": 550
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Stantler´s magnificent antlers\\nhave a soothing effect on all\\nanimals in its proximity."
+  },
+  {
+    "id": 241.0,
+    "name": "MILTANK",
+    "type1": "Normal",
+    "type2": "Grass",
+    "stats": {
+      "hp": 106,
+      "atk": 93,
+      "def": 111,
+      "spa": 78,
+      "spd": 83,
+      "spe": 86,
+      "bst": 557
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its milk is packed with nutrients,\\nmaking it a healthy beverage\\nand rich mulch for various soils."
+  },
+  {
+    "id": 242.0,
+    "name": "BLISSEY",
+    "type1": "Normal",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 100,
+      "atk": 78,
+      "def": 70,
+      "spa": 87,
+      "spd": 145,
+      "spe": 53,
+      "bst": 533
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "This kindhearted Pokémon nurses\\nsick Pokémon back to health.\\nIt only fights to protect its egg."
+  },
+  {
+    "id": 243.0,
+    "name": "RAIKOU",
+    "type1": "Electric",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 75,
+      "spa": 120,
+      "spd": 100,
+      "spe": 115,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Raikou is said to have fallen with\\nlightning. It creates lightning\\naround itself when meditating."
+  },
+  {
+    "id": 244.0,
+    "name": "ENTEI",
+    "type1": "Fire",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 115,
+      "atk": 115,
+      "def": 85,
+      "spa": 90,
+      "spd": 75,
+      "spe": 100,
+      "bst": 580
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When this hellhound roars,\\nit is said that a volcano erupts\\nsomewhere around the globe."
+  },
+  {
+    "id": 245.0,
+    "name": "SUICUNE",
+    "type1": "Water",
+    "type2": "Ice",
+    "stats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 100,
+      "spa": 105,
+      "spd": 115,
+      "spe": 85,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Suicune races around the world to\\npurify fouled water. It freezes\\nbodies of water to cross them."
+  },
+  {
+    "id": 249.0,
+    "name": "LUGIA",
+    "type1": "Water",
+    "type2": "Flying",
+    "stats": {
+      "hp": 106,
+      "atk": 75,
+      "def": 85,
+      "spa": 114,
+      "spd": 130,
+      "spe": 75,
+      "bst": 585
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It is said to be the guardian of\\nthe seas. It is rumored to have\\nbeen seen on the night of a storm."
+  },
+  {
+    "id": 251.0,
+    "name": "CELEBI",
+    "type1": "Grass",
+    "type2": "Electric",
+    "stats": {
+      "hp": 80,
+      "atk": 70,
+      "def": 95,
+      "spa": 115,
+      "spd": 110,
+      "spe": 100,
+      "bst": 570
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "If Celebi overflows with energy,\\nit gains the power to travel across time.\\nIt only appears in peaceful times."
+  },
+  {
+    "id": 254.0,
+    "name": "SCEPTILE",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 81,
+      "atk": 103,
+      "def": 76,
+      "spa": 95,
+      "spd": 84,
+      "spe": 108,
+      "bst": 547
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The leaves that grow on its arms\\ncan slice down thick trees. Natives\\ncall it \"The Jungle Dragon\"."
+  },
+  {
+    "id": 257.0,
+    "name": "BLAZIKEN",
+    "type1": "Fire",
+    "type2": "Electric",
+    "stats": {
+      "hp": 74.0,
+      "atk": 119.0,
+      "def": 84.0,
+      "spa": 81.0,
+      "spd": 94.0,
+      "spe": 93.0,
+      "bst": 545.0
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Flames spout from its wrists,\\ncovering its knuckles. Its punches\\nrelease surges of heat and lightning."
+  },
+  {
+    "id": 262.0,
+    "name": "MIGHTYENA",
+    "type1": "Dark",
+    "type2": "Fire",
+    "stats": {
+      "hp": 79,
+      "atk": 112,
+      "def": 91,
+      "spa": 61,
+      "spd": 82,
+      "spe": 99,
+      "bst": 524
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Packs of Mightyena were seen burning\\ndown forests in order to startle\\nand hunt its inhabitants."
+  },
+  {
+    "id": 264.0,
+    "name": "LINOONE",
+    "type1": "Normal",
+    "type2": "Ice",
+    "stats": {
+      "hp": 84,
+      "atk": 106,
+      "def": 86,
+      "spa": 72,
+      "spd": 77,
+      "spe": 129,
+      "bst": 554
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "In the thick snow of freezing cold\\ntundras, Linoone established itself\\nto be the fastest predator."
+  },
+  {
+    "id": 267.0,
+    "name": "BEAUTIFLY",
+    "type1": "Bug",
+    "type2": "Ice",
+    "stats": {
+      "hp": 85,
+      "atk": 60,
+      "def": 92,
+      "spa": 113,
+      "spd": 122,
+      "spe": 93,
+      "bst": 565
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Beautifly emerges from its cacoon\\nduring the last days of autumn.\\nIt can survive in the coldest winters."
+  },
+  {
+    "id": 282.0,
+    "name": "GARDEVOIR",
+    "type1": "Psychic",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 80,
+      "atk": 60,
+      "def": 75,
+      "spa": 132,
+      "spd": 114,
+      "spe": 86,
+      "bst": 547
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its power peaks when it is\\nprotecting its Trainer. It torments\\nits enemies with nightmares."
+  },
+  {
+    "id": 289.0,
+    "name": "SLAKING",
+    "type1": "Normal",
+    "type2": "Ground",
+    "stats": {
+      "hp": 135,
+      "atk": 125,
+      "def": 90,
+      "spa": 60,
+      "spd": 73,
+      "spe": 61,
+      "bst": 544
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Slaking lives lying on the ground.\\nIt moves to another spot when\\nthere’s no food left within its reach."
+  },
+  {
+    "id": 292.0,
+    "name": "EELEKTROSS",
+    "type1": "Electric",
+    "type2": "Poison",
+    "stats": {
+      "hp": 91,
+      "atk": 115,
+      "def": 77,
+      "spa": 105,
+      "spd": 85,
+      "spe": 87,
+      "bst": 560
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It latches on to prey, sinking in its\\npoisonous fangs and shocking\\nthe prey with powerful electricity."
+  },
+  {
+    "id": 295.0,
+    "name": "EXPLOUD",
+    "type1": "Normal",
+    "type2": "Ice",
+    "stats": {
+      "hp": 104,
+      "atk": 66,
+      "def": 74,
+      "spa": 135,
+      "spd": 91,
+      "spe": 73,
+      "bst": 543
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Exploud triggers avalanches and\\nearthquakes with the tremors it\\ncreates by bellowing."
+  },
+  {
+    "id": 297.0,
+    "name": "HARIYAMA",
+    "type1": "Fighting",
+    "type2": "Electric",
+    "stats": {
+      "hp": 141,
+      "atk": 120,
+      "def": 70,
+      "spa": 60,
+      "spd": 81,
+      "spe": 64,
+      "bst": 536
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Hariyama loves challenging others\\nto tests of strength. It attacks\\nwith paralyzing thrusts."
+  },
+  {
+    "id": 303.0,
+    "name": "MAWILE",
+    "type1": "Steel",
+    "type2": "Dark",
+    "stats": {
+      "hp": 80,
+      "atk": 145,
+      "def": 110,
+      "spa": 60,
+      "spd": 75,
+      "spe": 70,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "A cunning and terrifying Pokémon,\\nits docile look makes opponents let\\ndown their guard."
+  },
+  {
+    "id": 308.0,
+    "name": "MEDICHAM",
+    "type1": "Fighting",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 76,
+      "atk": 101,
+      "def": 85,
+      "spa": 81,
+      "spd": 96,
+      "spe": 92,
+      "bst": 531
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Medicham´s sixth sense lets it\\npredict its foes every move.\\nIn battle its dragon spirit emerges."
+  },
+  {
+    "id": 310.0,
+    "name": "MANECTRIC",
+    "type1": "Electric",
+    "type2": "Ice",
+    "stats": {
+      "hp": 80,
+      "atk": 75,
+      "def": 77,
+      "spa": 103,
+      "spd": 88,
+      "spe": 120,
+      "bst": 543
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its den can be found where\\nlightning and hail hits. It is\\ndischarging electricity from its mane."
+  },
+  {
+    "id": 313.0,
+    "name": "VOLBEAT",
+    "type1": "Bug",
+    "type2": "Electric",
+    "stats": {
+      "hp": 101,
+      "atk": 60,
+      "def": 98,
+      "spa": 109,
+      "spd": 80,
+      "spe": 76,
+      "bst": 524
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Volbeat communicates with others\\nby charging and discharging its rear.\\nIt loves Illumise´s sweet aroma."
+  },
+  {
+    "id": 314.0,
+    "name": "ILLUMISE",
+    "type1": "Bug",
+    "type2": "Water",
+    "stats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 89,
+      "spa": 119,
+      "spd": 75,
+      "spe": 96,
+      "bst": 529
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Illumise lays its eggs near ponds.\\nIt guides Volbeat to draw signs\\nwith light in the night sky."
+  },
+  {
+    "id": 317.0,
+    "name": "SWALOT",
+    "type1": "Poison",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 121,
+      "atk": 65,
+      "def": 85,
+      "spa": 97,
+      "spd": 109,
+      "spe": 50,
+      "bst": 527
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "With its wide mouth, Swalot even\\nswallows large pets whole.\\nIts enzymes can dissolve anything."
+  },
+  {
+    "id": 323.0,
+    "name": "CAMERUPT",
+    "type1": "Ground",
+    "type2": "Electric",
+    "stats": {
+      "hp": 103,
+      "atk": 91,
+      "def": 95,
+      "spa": 124,
+      "spd": 85,
+      "spe": 61,
+      "bst": 559
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Camerupt´s humps charge up by\\nabsorbing lightning bolts.\\nIt erups when feeling threatened."
+  },
+  {
+    "id": 324.0,
+    "name": "TORKOAL",
+    "type1": "Fire",
+    "type2": "Ground",
+    "stats": {
+      "hp": 95,
+      "atk": 65,
+      "def": 125,
+      "spa": 88,
+      "spd": 85,
+      "spe": 50,
+      "bst": 508
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "You find abandoned coal mines full\\nof them. They dig tirelessly\\nthrough soil in search of coal."
+  },
+  {
+    "id": 326.0,
+    "name": "GRUMPIG",
+    "type1": "Psychic",
+    "type2": "Dark",
+    "stats": {
+      "hp": 101,
+      "atk": 66,
+      "def": 82,
+      "spa": 114,
+      "spd": 118,
+      "spe": 77,
+      "bst": 558
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It uses black pearls to amplify\\nits psychic power. It does\\nan odd dance to manipulate foes."
+  },
+  {
+    "id": 327.0,
+    "name": "SPINDA",
+    "type1": "Normal",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 79,
+      "atk": 104,
+      "def": 81,
+      "spa": 104,
+      "spd": 81,
+      "spe": 102,
+      "bst": 551
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Spinda moves in a curious manner\\nas if it is stumbling in dizziness.\\nIts dance lures children away from safety."
+  },
+  {
+    "id": 330.0,
+    "name": "FLYGON",
+    "type1": "Bug",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 83,
+      "atk": 75,
+      "def": 82,
+      "spa": 115,
+      "spd": 88,
+      "spe": 105,
+      "bst": 548
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It whips up sandstorms with\\npowerful flaps of its wings. It is\\nknown as “The Desert Dragon”."
+  },
+  {
+    "id": 334.0,
+    "name": "ALTARIA",
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 96,
+      "atk": 65,
+      "def": 82,
+      "spa": 108,
+      "spd": 107,
+      "spe": 86,
+      "bst": 544
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Altaria flies gracefully through the\\nsky. Its melodic humming is said to\\nbe hypnotic and soporific."
+  },
+  {
+    "id": 335.0,
+    "name": "ZANGOOSE",
+    "type1": "Normal",
+    "type2": "Bug",
+    "stats": {
+      "hp": 87,
+      "atk": 126,
+      "def": 91,
+      "spa": 60,
+      "spd": 78,
+      "spe": 97,
+      "bst": 539
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Zangoose is often seen hunting\\nSeviper in the jungle. Its sharp\\nclaws are its biggest weapons."
+  },
+  {
+    "id": 336.0,
+    "name": "SEVIPER",
+    "type1": "Poison",
+    "type2": "Normal",
+    "stats": {
+      "hp": 93,
+      "atk": 109,
+      "def": 85,
+      "spa": 67,
+      "spd": 100,
+      "spe": 92,
+      "bst": 546
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "To elude its archrival Zangoose,\\nSeviper is recently more regularly\\nseen in towns and cities."
+  },
+  {
+    "id": 337.0,
+    "name": "LUNATONE",
+    "type1": "Rock",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 98,
+      "atk": 64,
+      "def": 78,
+      "spa": 111,
+      "spd": 123,
+      "spe": 65,
+      "bst": 539
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Lunatone becomes active around the\\ntime of full moon. Its appearance\\nis said to coincide with nightmares."
+  },
+  {
+    "id": 342.0,
+    "name": "CRAWDAUNT",
+    "type1": "Water",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 85,
+      "atk": 125,
+      "def": 110,
+      "spa": 60,
+      "spd": 80,
+      "spe": 75,
+      "bst": 535
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Loving to fight, this Pokémon\\npinches all Pokémon that enter\\nits territory with its pincers."
+  },
+  {
+    "id": 350.0,
+    "name": "MILOTIC",
+    "type1": "Water",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 80,
+      "atk": 60,
+      "def": 80,
+      "spa": 115,
+      "spd": 140,
+      "spe": 81,
+      "bst": 556
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "This wyrm is breathtakingly\\nbeautiful. Those that see it are said\\nto forget their combative spirits."
+  },
+  {
+    "id": 354.0,
+    "name": "BANETTE",
+    "type1": "Ghost",
+    "type2": "Steel",
+    "stats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 85,
+      "spa": 64,
+      "spd": 90,
+      "spe": 90,
+      "bst": 529
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "A metal doll that became a Pokémon\\nover its grudge from being junked.\\nIt seeks the child that disowned it."
+  },
+  {
+    "id": 357.0,
+    "name": "TROPIUS",
+    "type1": "Grass",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 119,
+      "atk": 90,
+      "def": 82,
+      "spa": 100,
+      "spd": 91,
+      "spe": 58,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "This prehistoric Pokémon lives in\\ntropical jungles. The bunch of\\nfruit around its neck is delicious."
+  },
+  {
+    "id": 359.0,
+    "name": "ABSOL",
+    "type1": "Dark",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 81,
+      "atk": 115,
+      "def": 78,
+      "spa": 70,
+      "spd": 88,
+      "spe": 123,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It has the ability to foretell natural\\ndisasters and alerts people with\\ntelepathy."
+  },
+  {
+    "id": 362.0,
+    "name": "GLALIE",
+    "type1": "Ice",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 85,
+      "atk": 105,
+      "def": 85,
+      "spa": 100,
+      "spd": 85,
+      "spe": 95,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Legend says Snorunt absorbed the\\ndistress and regrets of a stranded\\nmountaineer, giving rise to Glalie."
+  },
+  {
+    "id": 373.0,
+    "name": "SALAMENCE",
+    "type1": "Dragon",
+    "type2": "Fire",
+    "stats": {
+      "hp": 102,
+      "atk": 115,
+      "def": 80,
+      "spa": 147,
+      "spd": 78,
+      "spe": 78,
+      "bst": 600
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It's uncontrollable if enraged. It\\nflies around spouting firestorms\\nscorching fields and mountains."
+  },
+  {
+    "id": 377.0,
+    "name": "REGIROCK",
+    "type1": "Rock",
+    "type2": "Electric",
+    "stats": {
+      "hp": 85,
+      "atk": 95,
+      "def": 150,
+      "spa": 95,
+      "spd": 100,
+      "spe": 50,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Sandstorms will follow\\nwherever this golem goes in\\nsearch for its creator."
+  },
+  {
+    "id": 378.0,
+    "name": "REGICE",
+    "type1": "Ice",
+    "type2": "Electric",
+    "stats": {
+      "hp": 85,
+      "atk": 95,
+      "def": 100,
+      "spa": 95,
+      "spd": 150,
+      "spe": 50,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Wandering the globe, it\\nsearches for its master.\\nA wicked blizzard in its wake."
+  },
+  {
+    "id": 379.0,
+    "name": "REGISTEEL",
+    "type1": "Steel",
+    "type2": "Electric",
+    "stats": {
+      "hp": 85,
+      "atk": 95,
+      "def": 125,
+      "spa": 95,
+      "spd": 125,
+      "spe": 50,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "All is still in its wake\\nas it trudges alone towards\\na destination only it knows."
+  },
+  {
+    "id": 382.0,
+    "name": "KYOGRE",
+    "type1": "Water",
+    "type2": "Electric",
+    "stats": {
+      "hp": 110,
+      "atk": 85,
+      "def": 80,
+      "spa": 130,
+      "spd": 110,
+      "spe": 61,
+      "bst": 576
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It can agitate ions withing the\\nocean and form thunderstorms\\nthat last for weeks."
+  },
+  {
+    "id": 383.0,
+    "name": "GROUDON",
+    "type1": "Fire",
+    "type2": "Ground",
+    "stats": {
+      "hp": 110,
+      "atk": 130,
+      "def": 110,
+      "spa": 85,
+      "spd": 80,
+      "spe": 61,
+      "bst": 576
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The beat of its heart causes\\natoms to vibrate and even ice\\nto spontaneously combust."
+  },
+  {
+    "id": 386.0,
+    "name": "DEOXYS",
+    "type1": "Psychic",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 90,
+      "atk": 90,
+      "def": 90,
+      "spa": 120,
+      "spd": 90,
+      "spe": 100,
+      "bst": 580
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "DNA from a space virus mutated\\nand became a Pokémon.\\nIt fights with mysterious powers."
+  },
+  {
+    "id": 398.0,
+    "name": "STARAPTOR",
+    "type1": "Fighting",
+    "type2": "Flying",
+    "stats": {
+      "hp": 99,
+      "atk": 109,
+      "def": 82,
+      "spa": 60,
+      "spd": 70,
+      "spe": 109,
+      "bst": 529
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It has a savage nature. It will\\ncourageously challenge and defeat\\nfoes that are much larger."
+  },
+  {
+    "id": 402.0,
+    "name": "XURKITREE",
+    "type1": "Electric",
+    "type2": "Grass",
+    "stats": {
+      "hp": 82,
+      "atk": 103,
+      "def": 73,
+      "spa": 149,
+      "spd": 92,
+      "spe": 76,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Xurkitree nourishes itself with\\nnutrients extracted by its roots.\\nIt was seen raiding a power plant."
+  },
+  {
+    "id": 405.0,
+    "name": "LUXRAY",
+    "type1": "Electric",
+    "type2": "Dark",
+    "stats": {
+      "hp": 82,
+      "atk": 105,
+      "def": 72,
+      "spa": 90,
+      "spd": 90,
+      "spe": 102,
+      "bst": 541
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Luxray's ability to see through\\nobjects comes in handy when\\nit's hunting for prey."
+  },
+  {
+    "id": 409.0,
+    "name": "RAMPARDOS",
+    "type1": "Rock",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 87,
+      "atk": 148,
+      "def": 90,
+      "spa": 60,
+      "spd": 72,
+      "spe": 97,
+      "bst": 554
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It was the apex predator in\\nprehistoric times. Its skull\\nwithstands even the heaviest impacts."
+  },
+  {
+    "id": 411.0,
+    "name": "BASTIODON",
+    "type1": "Dragon",
+    "type2": "Steel",
+    "stats": {
+      "hp": 100,
+      "atk": 78,
+      "def": 127,
+      "spa": 70,
+      "spd": 105,
+      "spe": 50,
+      "bst": 530
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "In prehistoric times Bastiodon was\\nthe only dinosaur that could\\nwithstand an attack by a Rampardos."
+  },
+  {
+    "id": 413.0,
+    "name": "AURORUS",
+    "type1": "Ice",
+    "type2": "Dragon",
+    "stats": {
+      "hp": 137,
+      "atk": 86,
+      "def": 90,
+      "spa": 90,
+      "spd": 101,
+      "spe": 56,
+      "bst": 560
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Aurorus was restored from a fossil.\\nWhen this Pokémon howls,\\nauroras appear in the night sky."
+  },
+  {
+    "id": 424.0,
+    "name": "LYCANROC",
+    "type1": "Rock",
+    "type2": "Dark",
+    "stats": {
+      "hp": 79,
+      "atk": 116,
+      "def": 98,
+      "spa": 60,
+      "spd": 81,
+      "spe": 127,
+      "bst": 561
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Lycanroc has an extremely vicious\\ntemperament which makes them\\nan extremely difficult species to raise."
+  },
+  {
+    "id": 428.0,
+    "name": "LOPUNNY",
+    "type1": "Normal",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 75,
+      "atk": 114,
+      "def": 89,
+      "spa": 60,
+      "spd": 76,
+      "spe": 126,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It has honed its instincts\\nto levels that surpass\\nphysical dimensions."
+  },
+  {
+    "id": 429.0,
+    "name": "MISMAGIUS",
+    "type1": "Ghost",
+    "type2": "Dark",
+    "stats": {
+      "hp": 74,
+      "atk": 81,
+      "def": 75,
+      "spa": 101,
+      "spd": 96,
+      "spe": 101,
+      "bst": 528
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its cries sound like incantations.\\nThose who hear it are tormented\\nby headaches and hallucinations."
+  },
+  {
+    "id": 435.0,
+    "name": "SKUNTANK",
+    "type1": "Poison",
+    "type2": "Normal",
+    "stats": {
+      "hp": 123,
+      "atk": 93,
+      "def": 99,
+      "spa": 68,
+      "spd": 82,
+      "spe": 68,
+      "bst": 533
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Despite its bad reputation\\nannd accompanying stink,\\nit just wants a friend."
+  },
+  {
+    "id": 437.0,
+    "name": "BRONZONG",
+    "type1": "Steel",
+    "type2": "Poison",
+    "stats": {
+      "hp": 91,
+      "atk": 60,
+      "def": 120,
+      "spa": 92,
+      "spd": 101,
+      "spe": 61,
+      "bst": 525
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "There is an enduring legend\\nthat its bell will sound upon\\nthe end of all things."
+  },
+  {
+    "id": 441.0,
+    "name": "COFAGRIGUS",
+    "type1": "Ghost",
+    "type2": "Ice",
+    "stats": {
+      "hp": 79,
+      "atk": 60,
+      "def": 142,
+      "spa": 108,
+      "spd": 96,
+      "spe": 56,
+      "bst": 541
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The tombs buried atop Mt.Coronet\\nhave resulted in a\\nfar more chilly afterlife."
+  },
+  {
+    "id": 446.0,
+    "name": "GARBODOR",
+    "type1": "Poison",
+    "type2": "Dark",
+    "stats": {
+      "hp": 124,
+      "atk": 71,
+      "def": 81,
+      "spa": 94,
+      "spd": 103,
+      "spe": 63,
+      "bst": 536
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Consuming garbage makes new\\nkinds of poison gases and noxious\\nliquids inside their bodies."
+  },
+  {
+    "id": 450.0,
+    "name": "HIPPOWDON",
+    "type1": "Ground",
+    "type2": "Dark",
+    "stats": {
+      "hp": 118,
+      "atk": 128,
+      "def": 95,
+      "spa": 69,
+      "spd": 83,
+      "spe": 56,
+      "bst": 549
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Dwelling at the heart of\\ndeserts, it is the secret apex\\npredator of arid ecosystems."
+  },
+  {
+    "id": 457.0,
+    "name": "BEARTIC",
+    "type1": "Ice",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 104,
+      "atk": 131,
+      "def": 83,
+      "spa": 60,
+      "spd": 96,
+      "spe": 81,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It freezes its breath to create\\nfangs and claws of ice to fight with.\\nCold northern areas are its habitat."
+  },
+  {
+    "id": 463.0,
+    "name": "LICKILICKY",
+    "type1": "Normal",
+    "type2": "Ghost",
+    "stats": {
+      "hp": 129,
+      "atk": 90,
+      "def": 77,
+      "spa": 79,
+      "spd": 98,
+      "spe": 54,
+      "bst": 527
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "The long tongue is always soggy.\\nLegend says that anyone licked by this\\nPokémon will die within a year."
+  },
+  {
+    "id": 465.0,
+    "name": "TANGROWTH",
+    "type1": "Grass",
+    "type2": "Steel",
+    "stats": {
+      "hp": 125,
+      "atk": 95,
+      "def": 70,
+      "spa": 85,
+      "spd": 90,
+      "spe": 55,
+      "bst": 520
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Primordial knowledge attained\\nupon evolution grants it\\nonce-forgotten resistances."
+  },
+  {
+    "id": 466.0,
+    "name": "ELECTIVIRE",
+    "type1": "Electric",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 99,
+      "atk": 125,
+      "def": 97,
+      "spa": 85,
+      "spd": 84,
+      "spe": 77,
+      "bst": 567
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "When contacting an enemy\\nin battle, it discharges high-voltage\\ncurrents into its foe."
+  },
+  {
+    "id": 467.0,
+    "name": "MAGMORTAR",
+    "type1": "Fire",
+    "type2": "Water",
+    "stats": {
+      "hp": 99,
+      "atk": 85,
+      "def": 84,
+      "spa": 125,
+      "spd": 97,
+      "spe": 77,
+      "bst": 567
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "After launching 3,600 degrees F\\nfireballs, it cools its cannon with\\nwater stored inside its body."
+  },
+  {
+    "id": 468.0,
+    "name": "TOGEKISS",
+    "type1": "Psychic",
+    "type2": "Flying",
+    "stats": {
+      "hp": 90,
+      "atk": 65,
+      "def": 95,
+      "spa": 110,
+      "spd": 116,
+      "spe": 79,
+      "bst": 555
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It cleanses the mind of\\npeople who respect one another’s\\nrights and avoid needless strife."
+  },
+  {
+    "id": 470.0,
+    "name": "LEAFEON",
+    "type1": "Grass",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 80,
+      "atk": 125,
+      "def": 90,
+      "spa": 60,
+      "spd": 75,
+      "spe": 110,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Leafeon’s tail is blade sharp, with a\\nfantastic cutting edge that is\\nused for defense against predators."
+  },
+  {
+    "id": 471.0,
+    "name": "GLACEON",
+    "type1": "Ice",
+    "type2": "Steel",
+    "stats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 125,
+      "spa": 110,
+      "spd": 80,
+      "spe": 75,
+      "bst": 540
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Glaceon lowers its body heat to\\nfreeze its fur. Its skin becomes\\ntough like diamond."
+  },
+  {
+    "id": 474.0,
+    "name": "PORYGON-Z",
+    "type1": "Normal",
+    "type2": "Electric",
+    "stats": {
+      "hp": 71,
+      "atk": 60,
+      "def": 80,
+      "spa": 115,
+      "spd": 99,
+      "spe": 90,
+      "bst": 515
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It occasionally vanishes from\\nthe view of one observer while\\nremaining visible to another."
+  },
+  {
+    "id": 476.0,
+    "name": "PROBOPASS",
+    "type1": "Rock",
+    "type2": "Ice",
+    "stats": {
+      "hp": 78,
+      "atk": 63,
+      "def": 135,
+      "spa": 108,
+      "spd": 125,
+      "spe": 54,
+      "bst": 563
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "Its entire body exudes freezing\\ncold that brittles everything\\nin its proximity."
+  },
+  {
+    "id": 477.0,
+    "name": "DUSKNOIR",
+    "type1": "Ghost",
+    "type2": "Fighting",
+    "stats": {
+      "hp": 110,
+      "atk": 91,
+      "def": 109,
+      "spa": 83,
+      "spd": 101,
+      "spe": 62,
+      "bst": 556
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "After beating an enemy in\\ncombat, Dusknoir takes its victim\\ninto worlds unknown."
+  },
+  {
+    "id": 484.0,
+    "name": "PALKIA",
+    "type1": "Dragon",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 105,
+      "atk": 135,
+      "def": 80,
+      "spa": 110,
+      "spd": 90,
+      "spe": 80,
+      "bst": 600
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "A legendary Pokémon of Sinnoh.\\nIt is said that Palkia’s will can\\ndestaiblize space."
+  },
+  {
+    "id": 490.0,
+    "name": "DIANCIE",
+    "type1": "Rock",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 70,
+      "atk": 65,
+      "def": 145,
+      "spa": 115,
+      "spd": 125,
+      "spe": 50,
+      "bst": 570
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "It can instantly create many\\ndiamonds by mentally compressing\\nthe carbon in the air."
+  },
+  {
+    "id": 491.0,
+    "name": "DARKRAI",
+    "type1": "Dark",
+    "type2": "Psychic",
+    "stats": {
+      "hp": 80,
+      "atk": 95,
+      "def": 75,
+      "spa": 130,
+      "spd": 85,
+      "spe": 110,
+      "bst": 575
+    },
+    "front": null,
+    "back": null,
+    "shiny": null,
+    "flavor": "To protect itself, it afflicts those\\naround it with nightmares and\\ncontrols enemies minds."
+  }
+]

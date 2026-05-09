@@ -1,0 +1,4012 @@
+[
+  {
+    "area": "Twinleaf Town",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Twinleaf Town",
+    "item": "Nuggets",
+    "restriction": null
+  },
+  {
+    "area": "Twinleaf Town",
+    "item": "Twinleaf egg",
+    "restriction": null
+  },
+  {
+    "area": "Twinleaf Town",
+    "item": "Running shoes",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": "Starter",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": "TM 73",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": "EXP shares",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": "Rare Candy, Full Restore, Max Elixir, Sacret Ash",
+    "restriction": null
+  },
+  {
+    "area": "201/Verity Lakefront",
+    "item": 850.0,
+    "restriction": null
+  },
+  {
+    "area": "Verity Cliff",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Sandgem Town",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Sandgem Town",
+    "item": "Pokedex",
+    "restriction": null
+  },
+  {
+    "area": "Sandgem Town",
+    "item": "TM 27",
+    "restriction": null
+  },
+  {
+    "area": "Creator´s House",
+    "item": "Sandgem egg",
+    "restriction": null
+  },
+  {
+    "area": "Rowan´s Lab",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": 219.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 219.0,
+    "item": "TM 71",
+    "restriction": null
+  },
+  {
+    "area": 219.0,
+    "item": "TM 04",
+    "restriction": null
+  },
+  {
+    "area": 219.0,
+    "item": 358.0,
+    "restriction": null
+  },
+  {
+    "area": 219.0,
+    "item": 360.0,
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": "TM 08",
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": 1.0,
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": 3.0,
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": 2.0,
+    "restriction": null
+  },
+  {
+    "area": 202.0,
+    "item": 578.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Sitrus Berry",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Lum Berry",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife City",
+    "item": "Jubilife egg",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": "TM 37",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": "TM 06",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": "247/248/249/872",
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": 4.0,
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": 356.0,
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": 323.0,
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": 355.0,
+    "restriction": null
+  },
+  {
+    "area": 203.0,
+    "item": 322.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": "HM 06",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": 265.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": 240.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": 329.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": 555.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gate",
+    "item": 560.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "TM 67",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "TM 88",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "TM 32",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "Net Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Oreburgh Tunnel",
+    "item": "TM 19",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Every type reducing berry once",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Looker Items twice",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Trade",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Oreburgh egg",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh City",
+    "item": "Nest Ball",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "TM 46",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": 577.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": "TM 20",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": 196.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Mine",
+    "item": 195.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gym",
+    "item": 245.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gym",
+    "item": 244.0,
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gym",
+    "item": "246/627",
+    "restriction": null
+  },
+  {
+    "area": "Oreburgh Gym",
+    "item": "TM 76",
+    "restriction": "beat Roark"
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": 414.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": 415.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": 12.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": 10.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": 11.0,
+    "restriction": null
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": "Quick Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Jubilife Lakes",
+    "item": "TM 54",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Ravaged Path",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Ravaged Path",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ravaged Path",
+    "item": "TM 39",
+    "restriction": null
+  },
+  {
+    "area": "Ravaged Path",
+    "item": "Ultra Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Ravaged Path",
+    "item": "TM 63",
+    "restriction": "Surf"
+  },
+  {
+    "area": 204.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": "TM 47",
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": 14.0,
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": 13.0,
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": 15.0,
+    "restriction": null
+  },
+  {
+    "area": 204.0,
+    "item": "160/638",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Valley Windworks",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Valley Windworks",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Valley Windworks",
+    "item": 843.0,
+    "restriction": null
+  },
+  {
+    "area": "Valley Windworks",
+    "item": "Timer Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Valley Windworks",
+    "item": "TM 61",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Floaroma egg",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": 296.0,
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": 297.0,
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Star Piece",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Dusk Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Quick Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Ultra Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Power Plant",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Power Plant",
+    "item": 298.0,
+    "restriction": null
+  },
+  {
+    "area": "Power Plant",
+    "item": 299.0,
+    "restriction": null
+  },
+  {
+    "area": "Power Plant",
+    "item": "295/650",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "TM 13",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "TM 21",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "Skull Fossil",
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 16.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 18.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 21.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 17.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 377.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 19.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 20.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": 456.0,
+    "restriction": null
+  },
+  {
+    "area": 205.0,
+    "item": "161/643",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "TM 33",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 201.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 204.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 205.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 206.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 398.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 395.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 203.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": 202.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Nest Ball",
+    "restriction": "Beat Gardenia"
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "Pokeball",
+    "restriction": "Beat Gardenia"
+  },
+  {
+    "area": "Eterna Forest",
+    "item": "TM 11",
+    "restriction": "Beat Gardenia"
+  },
+  {
+    "area": "Eterna Pond",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Pond",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Pond",
+    "item": 24.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Pond",
+    "item": 23.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Pond",
+    "item": 22.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Trade",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Looker Items",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "HM 01",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Root Fossil",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Eterna City",
+    "item": "TM 26",
+    "restriction": "Beat Gardenia"
+  },
+  {
+    "area": "Eterna City",
+    "item": "Eterna egg",
+    "restriction": "Beat Jupiter"
+  },
+  {
+    "area": "Eterna Cliff",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Cliff",
+    "item": "TM 12",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Gym",
+    "item": 324.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Gym",
+    "item": 259.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Gym",
+    "item": 260.0,
+    "restriction": null
+  },
+  {
+    "area": "Eterna Gym",
+    "item": "315/629",
+    "restriction": null
+  },
+  {
+    "area": "Eterna Gym",
+    "item": "TM 86",
+    "restriction": "Beat Gardenia"
+  },
+  {
+    "area": "Old Chateau",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Old Chateau",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Old Chateau",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Old Chateau",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Old Chateau",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Old Chateau",
+    "item": "TM 34",
+    "restriction": null
+  },
+  {
+    "area": "Paranormal Room",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 412.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 421.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 410.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 422.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 423.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 831.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "406/653",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "TM 38",
+    "restriction": "Beat Jupiter"
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": "Palmer encounter",
+    "restriction": "Beat Jupiter"
+  },
+  {
+    "area": 206.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": "Dome Fossil",
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 25.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 29.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 26.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 30.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 27.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 28.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 32.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 31.0,
+    "restriction": null
+  },
+  {
+    "area": 206.0,
+    "item": 451.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": "TM 43",
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": "TM 77",
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 450.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 496.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 379.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 458.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 380.0,
+    "restriction": null
+  },
+  {
+    "area": "Wayward Cave",
+    "item": 459.0,
+    "restriction": null
+  },
+  {
+    "area": "Hidden Cave",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Hidden Cave",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Hidden Cave",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Hidden Cave",
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": "Hidden Cave",
+    "item": "TM 45",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "Helix Fossil",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "TM 70",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "TM 90",
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": 37.0,
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": 36.0,
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": 38.0,
+    "restriction": null
+  },
+  {
+    "area": 207.0,
+    "item": "162/644",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "TM 66",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "TM 64",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Coronet",
+    "item": "Dusk Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": 208.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": "TM 62",
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": "Looker Items",
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 41.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 42.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 39.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 554.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 594.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 44.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": 45.0,
+    "restriction": null
+  },
+  {
+    "area": 208.0,
+    "item": "TM 42",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 208.0,
+    "item": "TM 50",
+    "restriction": "Waterfall"
+  },
+  {
+    "area": "Berry House",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome City",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome City",
+    "item": "Armor Fossil",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 325.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 357.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 343.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 340.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 284.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": 280.0,
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": "318/631",
+    "restriction": null
+  },
+  {
+    "area": "Hearthome Gym",
+    "item": "TM 65",
+    "restriction": "Beat Fantina"
+  },
+  {
+    "area": "Hearthome East Exit",
+    "item": "470/471/472/871",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "TM 29",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "TM 35",
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 46.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 294.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 53.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 47.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 48.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": 55.0,
+    "restriction": null
+  },
+  {
+    "area": 209.0,
+    "item": "TM 84",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Lost Tower",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": "Nest Ball",
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": 532.0,
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": 529.0,
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": 531.0,
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": 533.0,
+    "restriction": null
+  },
+  {
+    "area": "Lost Tower",
+    "item": 534.0,
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Town",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Town",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Town",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Town",
+    "item": "TM 15",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Town",
+    "item": "TM 16",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "TM 80",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "HM 05",
+    "restriction": null
+  },
+  {
+    "area": "Solaceon Ruins",
+    "item": "Claw Fossil",
+    "restriction": "Found HM 05"
+  },
+  {
+    "area": "Jungle Path",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "TM 24",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "163/640",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 292.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 290.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 65.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 57.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 56.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "TM 10",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "TM 31",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "TM 40",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "Evolution Stones",
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 304.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 128.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 127.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 129.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 393.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": 394.0,
+    "restriction": null
+  },
+  {
+    "area": 215.0,
+    "item": "159/645",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "Looker Items",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "TM 01",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": "Veilstone City",
+    "item": "TM 82",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone City",
+    "item": "HM 02",
+    "restriction": "Beat Maylene"
+  },
+  {
+    "area": "Veilstone City",
+    "item": 848.0,
+    "restriction": "Beat Maylene"
+  },
+  {
+    "area": "Veilstone City",
+    "item": 849.0,
+    "restriction": "Beat Maylene"
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": 309.0,
+    "restriction": null
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": 310.0,
+    "restriction": null
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": 311.0,
+    "restriction": null
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": 312.0,
+    "restriction": null
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": "317/633",
+    "restriction": null
+  },
+  {
+    "area": "Veilstone Gym",
+    "item": "TM 60",
+    "restriction": "Beat Maylene"
+  },
+  {
+    "area": 214.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": "Ultra Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": 214.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": "TM 25",
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 120.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 121.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 113.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 273.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 491.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 119.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 382.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 114.0,
+    "restriction": null
+  },
+  {
+    "area": 214.0,
+    "item": 272.0,
+    "restriction": null
+  },
+  {
+    "area": "Ruin Maniac Cave",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Ruin Maniac Cave",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ruin Maniac Cave",
+    "item": "TM 68",
+    "restriction": null
+  },
+  {
+    "area": "Ruin Maniac Cave",
+    "item": "TM 74",
+    "restriction": null
+  },
+  {
+    "area": "Ruin Maniac Cave",
+    "item": "TM 75",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "Looker Items",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "TM 14",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "TM 36",
+    "restriction": "Surf, Rock Climb"
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "TM 44",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "164/642",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Palmer encounter",
+    "restriction": "Surf"
+  },
+  {
+    "area": 213.0,
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": "Big Pearl",
+    "restriction": "Surf"
+  },
+  {
+    "area": 213.0,
+    "item": "TM 22",
+    "restriction": "Surf"
+  },
+  {
+    "area": 213.0,
+    "item": "Timer Ball",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 213.0,
+    "item": "TM 07",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 213.0,
+    "item": 108.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 107.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 111.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 346.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 591.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 596.0,
+    "restriction": null
+  },
+  {
+    "area": 213.0,
+    "item": 106.0,
+    "restriction": "Surf"
+  },
+  {
+    "area": 213.0,
+    "item": 110.0,
+    "restriction": "Surf"
+  },
+  {
+    "area": 213.0,
+    "item": 597.0,
+    "restriction": "Surf"
+  },
+  {
+    "area": "Pastoria City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Pastoria City",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Pastoria City",
+    "item": "Quick Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Pastoria City",
+    "item": "473/474/475/873",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "TM 51",
+    "restriction": null
+  },
+  {
+    "area": "Great Marsh",
+    "item": "TM 52",
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": 497.0,
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": 339.0,
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": 498.0,
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": 483.0,
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": "316/635",
+    "restriction": null
+  },
+  {
+    "area": "Pastoria Gym",
+    "item": "TM 55",
+    "restriction": "Beat Wake"
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 847.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "TM 03",
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": "TM 87",
+    "restriction": "Surf"
+  },
+  {
+    "area": "Small Marsh",
+    "item": 94.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 486.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 328.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 327.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 92.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 93.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 381.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 99.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 332.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 95.0,
+    "restriction": null
+  },
+  {
+    "area": "Small Marsh",
+    "item": 96.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": "Great Ball",
+    "restriction": "Surf"
+  },
+  {
+    "area": 212.0,
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": "TM 23",
+    "restriction": "Surf"
+  },
+  {
+    "area": 212.0,
+    "item": "TM 41",
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": "Old Amber",
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 102.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 82.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 83.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 89.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 84.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 85.0,
+    "restriction": null
+  },
+  {
+    "area": 212.0,
+    "item": 88.0,
+    "restriction": null
+  },
+  {
+    "area": "Trophy Garden",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Trophy Garden",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Trophy Garden",
+    "item": "TM 83",
+    "restriction": null
+  },
+  {
+    "area": "Trophy Garden",
+    "item": "TM 89",
+    "restriction": null
+  },
+  {
+    "area": "Trophy Garden",
+    "item": "342/647",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 488.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 489.0,
+    "restriction": null
+  },
+  {
+    "area": "Jungle Path",
+    "item": 490.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "TM 69",
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "TM 78",
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "Dusk Ball",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 210.0,
+    "item": "TM 18",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 210.0,
+    "item": 70.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 67.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 75.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 66.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 69.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 71.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 74.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 68.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": 72.0,
+    "restriction": null
+  },
+  {
+    "area": 210.0,
+    "item": "167/646",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "Trade",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": 416.0,
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "913/657",
+    "restriction": null
+  },
+  {
+    "area": "Celestic Town",
+    "item": "HM 03",
+    "restriction": null
+  },
+  {
+    "area": "Fuego Ironworks",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": 844.0,
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": 845.0,
+    "restriction": null
+  },
+  {
+    "area": "Ironwork",
+    "item": 846.0,
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": 601.0,
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": 602.0,
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": 600.0,
+    "restriction": null
+  },
+  {
+    "area": 220.0,
+    "item": 604.0,
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": "TM 81",
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": 494.0,
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": 598.0,
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": 274.0,
+    "restriction": null
+  },
+  {
+    "area": 221.0,
+    "item": 568.0,
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": 154.0,
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": 153.0,
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": 338.0,
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": 583.0,
+    "restriction": null
+  },
+  {
+    "area": 218.0,
+    "item": 300.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Canalave City",
+    "item": "TM 92",
+    "restriction": null
+  },
+  {
+    "area": "Canalave City",
+    "item": "476/477/478/923",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Pokeball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "TM 85",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "HM 04",
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 457.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 503.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 504.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 445.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 372.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 505.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 506.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 388.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": 392.0,
+    "restriction": null
+  },
+  {
+    "area": "Iron Island",
+    "item": "168/632",
+    "restriction": null
+  },
+  {
+    "area": "Iron Cave",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Steel Room",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Steel Room",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 314.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 257.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 279.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 367.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 232.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 283.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": 256.0,
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": "250/637",
+    "restriction": null
+  },
+  {
+    "area": "Canalave Gym",
+    "item": "TM 91",
+    "restriction": "Beat Byron"
+  },
+  {
+    "area": "Lake Valor",
+    "item": 425.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Valor",
+    "item": 417.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Valor",
+    "item": 418.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Valor",
+    "item": "408/655",
+    "restriction": null
+  },
+  {
+    "area": "Lake Valor",
+    "item": "Wild encounter",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": "Lake Valor",
+    "item": "Star Piece",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": "Lake Valor",
+    "item": "Palmer encounter",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": "Lake Verity",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": "Palmer encounter",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": "Lake Verity",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": 419.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": 426.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": 420.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": 427.0,
+    "restriction": null
+  },
+  {
+    "area": "Lake Verity",
+    "item": "405/651",
+    "restriction": null
+  },
+  {
+    "area": 211.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 211.0,
+    "item": "TM 49",
+    "restriction": null
+  },
+  {
+    "area": 211.0,
+    "item": "TM 79",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 211.0,
+    "item": 442.0,
+    "restriction": null
+  },
+  {
+    "area": 211.0,
+    "item": 81.0,
+    "restriction": null
+  },
+  {
+    "area": 211.0,
+    "item": 79.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "TM 28",
+    "restriction": null
+  },
+  {
+    "area": "Coronet North",
+    "item": "TM 48",
+    "restriction": "Coronet Summit Entrance"
+  },
+  {
+    "area": "Ice Room",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Ice Room",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": "TM 09",
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": "Ultra Ball",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 216.0,
+    "item": "Quick Ball",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 216.0,
+    "item": "TM 58",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 216.0,
+    "item": 132.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 135.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 134.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 138.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 258.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 137.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 133.0,
+    "restriction": null
+  },
+  {
+    "area": 216.0,
+    "item": 139.0,
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 216.0,
+    "item": 136.0,
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": 217.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Looker Items",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "TM 17",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": "HM 08",
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 140.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 146.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 142.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 147.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 144.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 143.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 145.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 148.0,
+    "restriction": null
+  },
+  {
+    "area": 217.0,
+    "item": 141.0,
+    "restriction": null
+  },
+  {
+    "area": "Acuity Lakefront",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Acuity Lakefront",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Acuity Lakefront",
+    "item": "Dusk Ball",
+    "restriction": "Rock Climb"
+  },
+  {
+    "area": "Acuity Lakefront",
+    "item": "170/634",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint City",
+    "item": "Trade",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint City",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Temple",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Temple",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 828.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 269.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 268.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 271.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 827.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": 270.0,
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": "319/639",
+    "restriction": null
+  },
+  {
+    "area": "Snowpoint Gym",
+    "item": "TM 72",
+    "restriction": "Beat Candice"
+  },
+  {
+    "area": "Lake Acuity",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Lake Acuity",
+    "item": "Palmer encounter",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": "Lake Acuity",
+    "item": "Net Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Galactic Key",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Great Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Dusk ball",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "Master Ball",
+    "restriction": "Beat Saturn"
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "TM 02",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "TM 30",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 507.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 508.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 428.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 830.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 510.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 513.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 430.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 829.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 514.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 522.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 509.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": 512.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "403/656",
+    "restriction": null
+  },
+  {
+    "area": "Galactic Veilstone",
+    "item": "409/658",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Star Piece",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Big Pearl",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": "171/628",
+    "restriction": null
+  },
+  {
+    "area": "Coronet",
+    "item": 515.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": "Repeat Ball",
+    "restriction": "Waterfall"
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": "Dusk ball",
+    "restriction": "Waterfall"
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": 518.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": 524.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": 517.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": 516.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Cavern",
+    "item": 519.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Summit",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Coronet Summit",
+    "item": 525.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Summit",
+    "item": 520.0,
+    "restriction": null
+  },
+  {
+    "area": "Coronet Summit",
+    "item": 526.0,
+    "restriction": null
+  },
+  {
+    "area": "Spear Pillar",
+    "item": 521.0,
+    "restriction": null
+  },
+  {
+    "area": "Spear Pillar",
+    "item": 527.0,
+    "restriction": null
+  },
+  {
+    "area": "Spear Pillar",
+    "item": "407/654",
+    "restriction": null
+  },
+  {
+    "area": "Spear Pillar",
+    "item": "528/652",
+    "restriction": null
+  },
+  {
+    "area": "Distortion World",
+    "item": "404/659",
+    "restriction": null
+  },
+  {
+    "area": "Sendoff Spring",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "Wild encounter",
+    "restriction": "Visit Rowan after meeting Giratina"
+  },
+  {
+    "area": 222.0,
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "TM 53",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "TM 59",
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 335.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 492.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 333.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 361.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 172.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 175.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 337.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 359.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 173.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 180.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": 174.0,
+    "restriction": null
+  },
+  {
+    "area": 222.0,
+    "item": "103/630",
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore City",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore City",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 341.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 301.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 331.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 303.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 285.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 302.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": 281.0,
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": "320/641",
+    "restriction": null
+  },
+  {
+    "area": "Sunyshore Gym",
+    "item": "TM 57",
+    "restriction": "Beat Volkner"
+  },
+  {
+    "area": 223.0,
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "TM 05",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "TM 56",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "HM 07",
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 189.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 190.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 188.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 191.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 186.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 184.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 192.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 482.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 183.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 194.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 193.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": 187.0,
+    "restriction": null
+  },
+  {
+    "area": 223.0,
+    "item": "104/636",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Max Revive",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Nugget",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Ultra Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Repeat Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Quick Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Timer Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": "Dusk Ball",
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 234.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 574.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 233.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 226.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 224.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 227.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 237.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 229.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 444.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 235.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 225.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 230.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 236.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 228.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 231.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 592.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 566.0,
+    "restriction": null
+  },
+  {
+    "area": "Victory Road",
+    "item": 575.0,
+    "restriction": null
+  },
+  {
+    "area": "Pokemon League",
+    "item": "Wild encounter",
+    "restriction": null
+  },
+  {
+    "area": "Pokemon League",
+    "item": "Rowan TMs",
+    "restriction": null
+  },
+  {
+    "area": "Pokemon League",
+    "item": "500/648",
+    "restriction": null
+  },
+  {
+    "area": "Pokemon League",
+    "item": "593/649",
+    "restriction": null
+  },
+  {
+    "area": "Pokemon League",
+    "item": "479/480/481/924",
+    "restriction": null
+  },
+  {
+    "area": "Elite 4",
+    "item": "866/791",
+    "restriction": null
+  },
+  {
+    "area": "Elite 4",
+    "item": "867/787",
+    "restriction": null
+  },
+  {
+    "area": "Elite 4",
+    "item": "868/788",
+    "restriction": null
+  },
+  {
+    "area": "Elite 4",
+    "item": "869/789",
+    "restriction": null
+  },
+  {
+    "area": "Elite 4",
+    "item": "870/790",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "565/785",
+    "restriction": null
+  },
+  {
+    "area": "Floaroma Meadow",
+    "item": "Palmer encounter",
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 792.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 793.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 794.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 795.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 796.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 797.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 798.0,
+    "restriction": null
+  },
+  {
+    "area": "Valor Lakefront",
+    "item": 799.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 800.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 801.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 802.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 803.0,
+    "restriction": null
+  },
+  {
+    "area": "Galactic Eterna",
+    "item": 803.0,
+    "restriction": null
+  }
+]

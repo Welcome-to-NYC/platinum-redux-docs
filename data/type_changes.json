@@ -1,0 +1,92 @@
+[
+  {
+    "attacking": "Dark",
+    "defending": "Steel",
+    "modifier": 1.0,
+    "explanation": "Already a thing since gen 6"
+  },
+  {
+    "attacking": "Ghost",
+    "defending": "Steel",
+    "modifier": 1.0,
+    "explanation": "Already a thing since gen 6"
+  },
+  {
+    "attacking": "Psychic",
+    "defending": "Steel",
+    "modifier": 1.0,
+    "explanation": "Mainly to nerf steels defense; other supernatural, force like types (dark, ghost) are already not resisted by steel"
+  },
+  {
+    "attacking": "Grass",
+    "defending": "Steel",
+    "modifier": 1.0,
+    "explanation": "Steel is too strong defensively; grass too weak offensively and all the nature types (water, fire, electric) are already not resisted by steel"
+  },
+  {
+    "attacking": "Bug",
+    "defending": "Ghost",
+    "modifier": 1.0,
+    "explanation": "Ghost is already a strong type and becomes even stronger with neutrality towards steel; bug is lackluster offensively"
+  },
+  {
+    "attacking": "Dragon",
+    "defending": "Ice",
+    "modifier": 0.5,
+    "explanation": "Ice only resists itself and arguably the weakest defensive type; dragon should be slightly nerfed"
+  },
+  {
+    "attacking": "Dragon",
+    "defending": "Normal",
+    "modifier": 2.0,
+    "explanation": "Normal is a pretty lame typing (offensively and defensively); dragon is only super effective against itself and normal beings are no match for dragons"
+  },
+  {
+    "attacking": "Poison",
+    "defending": "Dragon",
+    "modifier": 2.0,
+    "explanation": "Nerfing dragon type; poison is only super effective against grass and poisoning a dragon seems to be a good strategy against dragons"
+  },
+  {
+    "attacking": "Normal",
+    "defending": "Dark",
+    "modifier": 2.0,
+    "explanation": "Making normal type more exciting; darkness cannot corrupt a kind soul (most normal types seem to be friendly); dark is already a good typing and buffed with neutrality towards steel"
+  },
+  {
+    "attacking": "Dark",
+    "defending": "Normal",
+    "modifier": 0.5,
+    "explanation": "Making normal type more exciting; darkness cannot corrupt a kind soul (most normal types seem to be friendly); dark is already a good typing and buffed with neutrality towards steel"
+  },
+  {
+    "attacking": "Ghost",
+    "defending": "Ghost",
+    "modifier": 1.0,
+    "explanation": "Gives ghost and dark types their own unique strengths offensively"
+  },
+  {
+    "attacking": "Ghost",
+    "defending": "Fighting",
+    "modifier": 2.0,
+    "explanation": "Gives ghost and dark types their own unique strengths offensively"
+  },
+  {
+    "attacking": "Psychic",
+    "defending": "Ghost",
+    "modifier": 2.0,
+    "explanation": "I don´t want to buff ghost type and it seems fair to give psychic a third type that it is super effective against"
+  },
+  {
+    "attacking": "Flying",
+    "defending": "Grass",
+    "modifier": 1.0,
+    "explanation": "Grass has the most weaknesses and flying is especially with ground or fighting coverage an offensive beast"
+  },
+  {
+    "attacking": "Ground",
+    "defending": "Rock",
+    "modifier": 1.0,
+    "explanation": "Ground is one of the most (if not the most) powerful offensive typings & Rock (and grass) are the typings with the most weaknesses"
+  }
+]

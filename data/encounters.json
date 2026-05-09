@@ -1,0 +1,4529 @@
+[
+  {
+    "area": "Route 201 (Starter)",
+    "encounters": [
+      {
+        "pokemon": "Chikorita",
+        "pct": null
+      },
+      {
+        "pokemon": "Squirtle",
+        "pct": null
+      },
+      {
+        "pokemon": "Torchic",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Twinleaf Town (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Hoppip",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Numel",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "NidoranM",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Porygon",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Wurmple",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Tynamo",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Shinx",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Jasmines House (Egg)",
+    "encounters": [
+      {
+        "pokemon": "Abra",
+        "pct": null
+      },
+      {
+        "pokemon": "Aron",
+        "pct": null
+      },
+      {
+        "pokemon": "Barboach",
+        "pct": null
+      },
+      {
+        "pokemon": "Bronzor",
+        "pct": null
+      },
+      {
+        "pokemon": "Buneary",
+        "pct": null
+      },
+      {
+        "pokemon": "Caterpie",
+        "pct": null
+      },
+      {
+        "pokemon": "Chinchou",
+        "pct": null
+      },
+      {
+        "pokemon": "Combee",
+        "pct": null
+      },
+      {
+        "pokemon": "Deino",
+        "pct": null
+      },
+      {
+        "pokemon": "Dratini",
+        "pct": null
+      },
+      {
+        "pokemon": "Drowzee",
+        "pct": null
+      },
+      {
+        "pokemon": "Duskull",
+        "pct": null
+      },
+      {
+        "pokemon": "Dwebble",
+        "pct": null
+      },
+      {
+        "pokemon": "Exeggcute",
+        "pct": null
+      },
+      {
+        "pokemon": "Hoppip",
+        "pct": null
+      },
+      {
+        "pokemon": "Litwick",
+        "pct": null
+      },
+      {
+        "pokemon": "Lotad",
+        "pct": null
+      },
+      {
+        "pokemon": "Machop",
+        "pct": null
+      },
+      {
+        "pokemon": "Magnemite",
+        "pct": null
+      },
+      {
+        "pokemon": "Meditite",
+        "pct": null
+      },
+      {
+        "pokemon": "Noibat",
+        "pct": null
+      },
+      {
+        "pokemon": "Nosepass",
+        "pct": null
+      },
+      {
+        "pokemon": "Pawniard",
+        "pct": null
+      },
+      {
+        "pokemon": "Phantump",
+        "pct": null
+      },
+      {
+        "pokemon": "Pidgey",
+        "pct": null
+      },
+      {
+        "pokemon": "Ponyta",
+        "pct": null
+      },
+      {
+        "pokemon": "Salandit",
+        "pct": null
+      },
+      {
+        "pokemon": "Sandile",
+        "pct": null
+      },
+      {
+        "pokemon": "Sandygast",
+        "pct": null
+      },
+      {
+        "pokemon": "Sneasel",
+        "pct": null
+      },
+      {
+        "pokemon": "Spheal",
+        "pct": null
+      },
+      {
+        "pokemon": "Swinub",
+        "pct": null
+      },
+      {
+        "pokemon": "Tynamo",
+        "pct": null
+      },
+      {
+        "pokemon": "Weedle",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 201 / Verity Lakefront (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Poochyena",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Poliwag",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Weedle",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Pidgey",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Bellsprout",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "NidoranF",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Oddish",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Verity Cliff (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Rattata",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Marill",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Starly",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Burmy",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Slakoth",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Grubbin",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Bidoof",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Sandgem Town (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Venonat",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Sunkern",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Sandygast",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Spearow",
+        "pct": 13.0
+      },
+      {
+        "pokemon": "Sandile",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Ralts",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Trapinch",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Rowan Lab (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Bidoof",
+        "pct": null
+      },
+      {
+        "pokemon": "Burmy",
+        "pct": null
+      },
+      {
+        "pokemon": "Diglett",
+        "pct": null
+      },
+      {
+        "pokemon": "Geodude",
+        "pct": null
+      },
+      {
+        "pokemon": "Grubbin",
+        "pct": null
+      },
+      {
+        "pokemon": "Ledyba",
+        "pct": null
+      },
+      {
+        "pokemon": "Marill",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidoran M",
+        "pct": null
+      },
+      {
+        "pokemon": "Poochyena",
+        "pct": null
+      },
+      {
+        "pokemon": "Rattata",
+        "pct": null
+      },
+      {
+        "pokemon": "Rolycoly",
+        "pct": null
+      },
+      {
+        "pokemon": "Rookidee",
+        "pct": null
+      },
+      {
+        "pokemon": "Sentret",
+        "pct": null
+      },
+      {
+        "pokemon": "Slakoth",
+        "pct": null
+      },
+      {
+        "pokemon": "Slugma",
+        "pct": null
+      },
+      {
+        "pokemon": "Starly",
+        "pct": null
+      },
+      {
+        "pokemon": "Stunky",
+        "pct": null
+      },
+      {
+        "pokemon": "Sunkern",
+        "pct": null
+      },
+      {
+        "pokemon": "Trapinch",
+        "pct": null
+      },
+      {
+        "pokemon": "Whismur",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Creators House (Egg)",
+    "encounters": [
+      {
+        "pokemon": "Beldum",
+        "pct": null
+      },
+      {
+        "pokemon": "Bellsprout",
+        "pct": null
+      },
+      {
+        "pokemon": "Fletchling",
+        "pct": null
+      },
+      {
+        "pokemon": "Gastly",
+        "pct": null
+      },
+      {
+        "pokemon": "Larvitar",
+        "pct": null
+      },
+      {
+        "pokemon": "Mankey",
+        "pct": null
+      },
+      {
+        "pokemon": "Mareep",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidoran F",
+        "pct": null
+      },
+      {
+        "pokemon": "Seedot",
+        "pct": null
+      },
+      {
+        "pokemon": "Shinx",
+        "pct": null
+      },
+      {
+        "pokemon": "Zubat",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 219 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Sandshrew",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Dwebble",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Seel",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Omanyte",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Psyduck",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Corphish",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Gible",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 202 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Seedot",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Buneary",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Caterpie",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Combee",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Sentret",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Gulpin",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Rookidee",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Jubilife City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Shuppet",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Snorunt",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Golett",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Cubchoo",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Mareep",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Whismur",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Chimchar",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Trainers School (Gift)",
+    "encounters": [
+      {
+        "pokemon": "Bulbasaur",
+        "pct": null
+      },
+      {
+        "pokemon": "Charmander",
+        "pct": null
+      },
+      {
+        "pokemon": "Chimchar",
+        "pct": null
+      },
+      {
+        "pokemon": "Cyndaquil",
+        "pct": null
+      },
+      {
+        "pokemon": "Mudkip",
+        "pct": null
+      },
+      {
+        "pokemon": "Piplup",
+        "pct": null
+      },
+      {
+        "pokemon": "Totodile",
+        "pct": null
+      },
+      {
+        "pokemon": "Treecko",
+        "pct": null
+      },
+      {
+        "pokemon": "Turtwig",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 203 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Piplup",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Electrike",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Horsea",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Feebas",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Ferroseed",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Togepi",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Treecko",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Oreburgh Gate (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Bronzor",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Slugma",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Zigzagoon",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Duskull",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Dratini",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Aron",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Turtwig",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Oreburgh Tunnel (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Diglett",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Skrelp",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Rockruff",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Frillish",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Chinchou",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Larvitar",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Mudkip",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Oreburgh City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Teddiursa",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Grimer",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Mankey",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Koffing",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Deino",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Litwick",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Cyndaquil",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Mining Museum (Fossil)",
+    "encounters": [
+      {
+        "pokemon": "Cranidos",
+        "pct": 205.0
+      },
+      {
+        "pokemon": "Kabuto",
+        "pct": 206.0
+      },
+      {
+        "pokemon": "Omanyte",
+        "pct": 207.0
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "pct": 212.0
+      },
+      {
+        "pokemon": "Lileep",
+        "pct": null
+      },
+      {
+        "pokemon": "Shieldon",
+        "pct": null
+      },
+      {
+        "pokemon": "Anorith",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Dawns House (Egg)",
+    "encounters": [
+      {
+        "pokemon": "Eevee",
+        "pct": null
+      },
+      {
+        "pokemon": "Oddish",
+        "pct": null
+      },
+      {
+        "pokemon": "Poliwag",
+        "pct": null
+      },
+      {
+        "pokemon": "Ralts",
+        "pct": null
+      },
+      {
+        "pokemon": "Slowpoke",
+        "pct": null
+      },
+      {
+        "pokemon": "Teddiursa",
+        "pct": null
+      },
+      {
+        "pokemon": "Wooper",
+        "pct": null
+      },
+      {
+        "pokemon": "Wurmple",
+        "pct": null
+      },
+      {
+        "pokemon": "Zigzagoon",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Oreburgh Mine (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Machop",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Geodude",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Zubat",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Gastly",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Rolycoly",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Swinub",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Abra",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 207 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Gligar",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Houndour",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Phanpy",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Stunky",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Fletchling",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Bagon",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Bulbasaur",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Jubilife Lakes (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Skorupi",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Kabuto",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lotad",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Jangmo-o",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Squirtle",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Chikorita",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Totodile",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Ravaged Path (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Onix",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Magnemite",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Wooper",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Torchic",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Charmander",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 204 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Ponyta",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Taillow",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Natu",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Cacnea",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Baltoy",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Exeggcute",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Cascoon",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Floaroma Town (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Meditite",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Meowth",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Ledyba",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Makuhita",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Pawniard",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Silcoon",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Nidorino",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Floaroma Meadow (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Clefairy",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Eevee",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Spoink",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Spinarak",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Larvesta",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Salandit",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Tangela",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Creator Lodge (Egg)",
+    "encounters": [
+      {
+        "pokemon": "Cubchoo",
+        "pct": null
+      },
+      {
+        "pokemon": "Cubone",
+        "pct": null
+      },
+      {
+        "pokemon": "Drilbur",
+        "pct": null
+      },
+      {
+        "pokemon": "Electrike",
+        "pct": null
+      },
+      {
+        "pokemon": "Growlithe",
+        "pct": null
+      },
+      {
+        "pokemon": "Krabby",
+        "pct": null
+      },
+      {
+        "pokemon": "Murkrow",
+        "pct": null
+      },
+      {
+        "pokemon": "Phanpy",
+        "pct": null
+      },
+      {
+        "pokemon": "Pikachu",
+        "pct": null
+      },
+      {
+        "pokemon": "Staryu",
+        "pct": null
+      },
+      {
+        "pokemon": "Vulpix",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Valley Windworks (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Voltorb",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Roselia",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Carvanha",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Krabby",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Helioptile",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Magikarp",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Staravia",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Power Plant (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Cacnea",
+        "pct": null
+      },
+      {
+        "pokemon": "Cascoon",
+        "pct": null
+      },
+      {
+        "pokemon": "Corphish",
+        "pct": null
+      },
+      {
+        "pokemon": "Drifloon",
+        "pct": null
+      },
+      {
+        "pokemon": "Gulpin",
+        "pct": null
+      },
+      {
+        "pokemon": "Hoothoot",
+        "pct": null
+      },
+      {
+        "pokemon": "Jigglypuff",
+        "pct": null
+      },
+      {
+        "pokemon": "Kakuna",
+        "pct": null
+      },
+      {
+        "pokemon": "Meowth",
+        "pct": null
+      },
+      {
+        "pokemon": "Metapod",
+        "pct": null
+      },
+      {
+        "pokemon": "Natu",
+        "pct": null
+      },
+      {
+        "pokemon": "Pineco",
+        "pct": null
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "pct": null
+      },
+      {
+        "pokemon": "Rockruff",
+        "pct": null
+      },
+      {
+        "pokemon": "Seel",
+        "pct": null
+      },
+      {
+        "pokemon": "Silcoon",
+        "pct": null
+      },
+      {
+        "pokemon": "Snorunt",
+        "pct": null
+      },
+      {
+        "pokemon": "Spinarak",
+        "pct": null
+      },
+      {
+        "pokemon": "Taillow",
+        "pct": null
+      },
+      {
+        "pokemon": "Wingull",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 205 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Hoothoot",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Pikachu",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Luxio",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Snover",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Spheal",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Kakuna",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Tentacool",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Eterna Forest (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Ekans",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Yanma",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Scyther",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Flaaffy",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Metapod",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Vibrava",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Beldum",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Eterna Pond (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Paras",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Anorith",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Doduo",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Sneasel",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Skuntank",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Croagunk",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Poliwhirl",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Eterna City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Pineco",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Slowpoke",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Wingull",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Riolu",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Growlithe",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Lickitung",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Shroomish",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Eterna House (Trade)",
+    "encounters": [
+      {
+        "pokemon": "Absol",
+        "pct": null
+      },
+      {
+        "pokemon": "IVs: 20",
+        "pct": null
+      },
+      {
+        "pokemon": "25.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15.0",
+        "pct": null
+      },
+      {
+        "pokemon": "20.0",
+        "pct": null
+      },
+      {
+        "pokemon": "25)",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Eterna Cliff (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Lileep",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Amaura",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Graveler",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Drifloon",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Kirlia",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Chansey",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Remoraid",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Eterna Galactic (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Amaura",
+        "pct": null
+      },
+      {
+        "pokemon": "Butterfree",
+        "pct": null
+      },
+      {
+        "pokemon": "Charjabug",
+        "pct": null
+      },
+      {
+        "pokemon": "Croagunk",
+        "pct": null
+      },
+      {
+        "pokemon": "Doduo",
+        "pct": null
+      },
+      {
+        "pokemon": "Ekans",
+        "pct": null
+      },
+      {
+        "pokemon": "Golett",
+        "pct": null
+      },
+      {
+        "pokemon": "Grimer",
+        "pct": null
+      },
+      {
+        "pokemon": "Hitmonchan",
+        "pct": null
+      },
+      {
+        "pokemon": "Jynx",
+        "pct": null
+      },
+      {
+        "pokemon": "Lampent",
+        "pct": null
+      },
+      {
+        "pokemon": "Larvesta",
+        "pct": null
+      },
+      {
+        "pokemon": "Loudred",
+        "pct": null
+      },
+      {
+        "pokemon": "Onix",
+        "pct": null
+      },
+      {
+        "pokemon": "Pidgeotto",
+        "pct": null
+      },
+      {
+        "pokemon": "Remoraid",
+        "pct": null
+      },
+      {
+        "pokemon": "Skuntank",
+        "pct": null
+      },
+      {
+        "pokemon": "Tangela",
+        "pct": null
+      },
+      {
+        "pokemon": "Trubbish",
+        "pct": null
+      },
+      {
+        "pokemon": "Venonat",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Bicycle Shop (Egg)",
+    "encounters": [
+      {
+        "pokemon": "Bagon",
+        "pct": null
+      },
+      {
+        "pokemon": "Feebas",
+        "pct": null
+      },
+      {
+        "pokemon": "Ferroseed",
+        "pct": null
+      },
+      {
+        "pokemon": "Gible",
+        "pct": null
+      },
+      {
+        "pokemon": "Horsea",
+        "pct": null
+      },
+      {
+        "pokemon": "Jangmo-o",
+        "pct": null
+      },
+      {
+        "pokemon": "Porygon",
+        "pct": null
+      },
+      {
+        "pokemon": "Riolu",
+        "pct": null
+      },
+      {
+        "pokemon": "Roselia",
+        "pct": null
+      },
+      {
+        "pokemon": "Swablu",
+        "pct": null
+      },
+      {
+        "pokemon": "Togepi",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Old Chateau (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Jigglypuff",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Misdreavus",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Vulpix",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Murkrow",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Yamask",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Golbat",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Dusclops",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Paranormal Room (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Baltoy",
+        "pct": null
+      },
+      {
+        "pokemon": "Carvanha",
+        "pct": null
+      },
+      {
+        "pokemon": "Clefairy",
+        "pct": null
+      },
+      {
+        "pokemon": "Helioptile",
+        "pct": null
+      },
+      {
+        "pokemon": "Houndour",
+        "pct": null
+      },
+      {
+        "pokemon": "Magikarp",
+        "pct": null
+      },
+      {
+        "pokemon": "Pinsir",
+        "pct": null
+      },
+      {
+        "pokemon": "Psyduck",
+        "pct": null
+      },
+      {
+        "pokemon": "Rotom",
+        "pct": null
+      },
+      {
+        "pokemon": "Sableye",
+        "pct": null
+      },
+      {
+        "pokemon": "Sandshrew",
+        "pct": null
+      },
+      {
+        "pokemon": "Shroomish",
+        "pct": null
+      },
+      {
+        "pokemon": "Shuppet",
+        "pct": null
+      },
+      {
+        "pokemon": "Skorupi",
+        "pct": null
+      },
+      {
+        "pokemon": "Snover",
+        "pct": null
+      },
+      {
+        "pokemon": "Spearow",
+        "pct": null
+      },
+      {
+        "pokemon": "Spoink",
+        "pct": null
+      },
+      {
+        "pokemon": "Tentacool",
+        "pct": null
+      },
+      {
+        "pokemon": "Voltorb",
+        "pct": null
+      },
+      {
+        "pokemon": "Yanma",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 206 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Magmar",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Piloswine",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Staryu",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Swablu",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Cranidos",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Shieldon",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Hidden Cave (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Drowzee",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Nosepass",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Drilbur",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Zweilous",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Primeape",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Kadabra",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Marshtomp",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Wayward Cave (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Carkol",
+        "pct": null
+      },
+      {
+        "pokemon": "Charmeleon",
+        "pct": null
+      },
+      {
+        "pokemon": "Delibird",
+        "pct": null
+      },
+      {
+        "pokemon": "Frillish",
+        "pct": null
+      },
+      {
+        "pokemon": "Gligar",
+        "pct": null
+      },
+      {
+        "pokemon": "Golbat",
+        "pct": null
+      },
+      {
+        "pokemon": "Grovyle",
+        "pct": null
+      },
+      {
+        "pokemon": "Hippopotas",
+        "pct": null
+      },
+      {
+        "pokemon": "Kangaskhan",
+        "pct": null
+      },
+      {
+        "pokemon": "Luxio",
+        "pct": null
+      },
+      {
+        "pokemon": "Magcargo",
+        "pct": null
+      },
+      {
+        "pokemon": "Makuhita",
+        "pct": null
+      },
+      {
+        "pokemon": "Marshtomp",
+        "pct": null
+      },
+      {
+        "pokemon": "Misdreavus",
+        "pct": null
+      },
+      {
+        "pokemon": "Mr. Mime",
+        "pct": null
+      },
+      {
+        "pokemon": "Paras",
+        "pct": null
+      },
+      {
+        "pokemon": "Skrelp",
+        "pct": null
+      },
+      {
+        "pokemon": "Sunflora",
+        "pct": null
+      },
+      {
+        "pokemon": "Togetic",
+        "pct": null
+      },
+      {
+        "pokemon": "Yamask",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Mt. Coronet (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Electabuzz",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Hippopotas",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Barboach",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Carkol",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Dragonair",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Lairon",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Metang",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 208 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Prinplup",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Skiploom",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Weepinbell",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Nuzleaf",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Sealeo",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Flechinder",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Berry House (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Azumarill",
+        "pct": null
+      },
+      {
+        "pokemon": "Bibarel",
+        "pct": null
+      },
+      {
+        "pokemon": "Flaaffy",
+        "pct": null
+      },
+      {
+        "pokemon": "Flechinder",
+        "pct": null
+      },
+      {
+        "pokemon": "Furret",
+        "pct": null
+      },
+      {
+        "pokemon": "Girafarig",
+        "pct": null
+      },
+      {
+        "pokemon": "Ivysaur",
+        "pct": null
+      },
+      {
+        "pokemon": "Koffing",
+        "pct": null
+      },
+      {
+        "pokemon": "Lairon",
+        "pct": null
+      },
+      {
+        "pokemon": "Lombre",
+        "pct": null
+      },
+      {
+        "pokemon": "Monferno",
+        "pct": null
+      },
+      {
+        "pokemon": "Numel",
+        "pct": null
+      },
+      {
+        "pokemon": "Nuzleaf",
+        "pct": null
+      },
+      {
+        "pokemon": "Prinplup",
+        "pct": null
+      },
+      {
+        "pokemon": "Seadra",
+        "pct": null
+      },
+      {
+        "pokemon": "Skiploom",
+        "pct": null
+      },
+      {
+        "pokemon": "Staravia",
+        "pct": null
+      },
+      {
+        "pokemon": "Volbeat",
+        "pct": null
+      },
+      {
+        "pokemon": "Weepinbell",
+        "pct": null
+      },
+      {
+        "pokemon": "Wormadam",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Hearthome City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Cubone",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Phantump",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Pidgeotto",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Wormadam",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Trubbish",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Vigoroth",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Bebes House (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Beautifly",
+        "pct": null
+      },
+      {
+        "pokemon": "Combusken",
+        "pct": null
+      },
+      {
+        "pokemon": "Corvisqire",
+        "pct": null
+      },
+      {
+        "pokemon": "Graveler",
+        "pct": null
+      },
+      {
+        "pokemon": "Grotle",
+        "pct": null
+      },
+      {
+        "pokemon": "Hitmonlee",
+        "pct": null
+      },
+      {
+        "pokemon": "Kadabra",
+        "pct": null
+      },
+      {
+        "pokemon": "Lickitung",
+        "pct": null
+      },
+      {
+        "pokemon": "Machoke",
+        "pct": null
+      },
+      {
+        "pokemon": "Pelipper",
+        "pct": null
+      },
+      {
+        "pokemon": "Relicanth",
+        "pct": null
+      },
+      {
+        "pokemon": "Scyther",
+        "pct": null
+      },
+      {
+        "pokemon": "Sealeo",
+        "pct": null
+      },
+      {
+        "pokemon": "Sirfetch´d",
+        "pct": null
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "pct": null
+      },
+      {
+        "pokemon": "Skarmory",
+        "pct": null
+      },
+      {
+        "pokemon": "Tauros",
+        "pct": null
+      },
+      {
+        "pokemon": "Vibrava",
+        "pct": null
+      },
+      {
+        "pokemon": "Vigoroth",
+        "pct": null
+      },
+      {
+        "pokemon": "Wartortle",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 209 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Combusken",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Gloom",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Rhydon",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Togetic",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Grovyle",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Corvisquire",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Lost Tower (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Raticate",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Shelgon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lampent",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Swalot",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Haunter",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Mightyena",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Charmeleon",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Lost Graveyard (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Bayleef",
+        "pct": null
+      },
+      {
+        "pokemon": "Chansey",
+        "pct": null
+      },
+      {
+        "pokemon": "Croconaw",
+        "pct": null
+      },
+      {
+        "pokemon": "Dustox",
+        "pct": null
+      },
+      {
+        "pokemon": "Gloom",
+        "pct": null
+      },
+      {
+        "pokemon": "Hakamo-o",
+        "pct": null
+      },
+      {
+        "pokemon": "Haunter",
+        "pct": null
+      },
+      {
+        "pokemon": "Kirlia",
+        "pct": null
+      },
+      {
+        "pokemon": "Ledian",
+        "pct": null
+      },
+      {
+        "pokemon": "Lunatone",
+        "pct": null
+      },
+      {
+        "pokemon": "Magmar",
+        "pct": null
+      },
+      {
+        "pokemon": "Mawile",
+        "pct": null
+      },
+      {
+        "pokemon": "Mightyena",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidorina",
+        "pct": null
+      },
+      {
+        "pokemon": "Noctowl",
+        "pct": null
+      },
+      {
+        "pokemon": "Poliwhirl",
+        "pct": null
+      },
+      {
+        "pokemon": "Primeape",
+        "pct": null
+      },
+      {
+        "pokemon": "Quilava",
+        "pct": null
+      },
+      {
+        "pokemon": "Spinda",
+        "pct": null
+      },
+      {
+        "pokemon": "Spiritomb",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Solaceon Town (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Ariados",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Sudowoodo",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Persian",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Dustox",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Loudred",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Krokorok",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Solaceon Ruins (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Kangaskhan",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Gliscor",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Noibat",
+        "pct": 18.0
+      },
+      {
+        "pokemon": "Noctowl",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Claydol",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Machoke",
+        "pct": 12.0
+      }
+    ]
+  },
+  {
+    "area": "Jungle Path (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Wigglytuff",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Seviper",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lombre",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Pupitar",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Grotle",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Monferno",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Route 215 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Crawdaunt",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Toxicroak",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Nidorina",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Croconaw",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Charjabug",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Gabite",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Veilstone City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Zangoose",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Tauros",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Arbok",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Forretress",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Hakamo-o",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Leafeon",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Veilstone House (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Clefable",
+        "pct": null
+      },
+      {
+        "pokemon": "Dusclops",
+        "pct": null
+      },
+      {
+        "pokemon": "Eelektrik",
+        "pct": null
+      },
+      {
+        "pokemon": "Electabuzz",
+        "pct": null
+      },
+      {
+        "pokemon": "Gabite",
+        "pct": null
+      },
+      {
+        "pokemon": "Houndoom",
+        "pct": null
+      },
+      {
+        "pokemon": "Krokorok",
+        "pct": null
+      },
+      {
+        "pokemon": "Lapras",
+        "pct": null
+      },
+      {
+        "pokemon": "Lopunny",
+        "pct": null
+      },
+      {
+        "pokemon": "Magneton",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidorino",
+        "pct": null
+      },
+      {
+        "pokemon": "Obstagoon",
+        "pct": null
+      },
+      {
+        "pokemon": "Piloswine",
+        "pct": null
+      },
+      {
+        "pokemon": "Porygon2",
+        "pct": null
+      },
+      {
+        "pokemon": "Raichu",
+        "pct": null
+      },
+      {
+        "pokemon": "Sandlash",
+        "pct": null
+      },
+      {
+        "pokemon": "Solrock",
+        "pct": null
+      },
+      {
+        "pokemon": "Ursaring",
+        "pct": null
+      },
+      {
+        "pokemon": "Wigglytuff",
+        "pct": null
+      },
+      {
+        "pokemon": "Zweilous",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 214 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Flareon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Houndoom",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Xatu",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Girafarig",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Cacturne",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Whiscash",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Ruin Maniac Cave (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Torkoal",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Espeon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Marowak",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Quilava",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Aurorus",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Hippowdon",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Valor Lakefront (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Skarmory",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Slowking",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Bayleef",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Shiftry",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Salazzle",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Route 213 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Magcargo",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Cradily",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Seadra",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Sunflora",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Vespiquen",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Crustle",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Pastoria City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Breloom",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Eelektrik",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Ivysaur",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Wartortle",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Magneton",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Quagsire",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Great Marsh (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Arbok",
+        "pct": null
+      },
+      {
+        "pokemon": "Beedrill",
+        "pct": null
+      },
+      {
+        "pokemon": "Clodsire",
+        "pct": null
+      },
+      {
+        "pokemon": "Dragonair",
+        "pct": null
+      },
+      {
+        "pokemon": "Forretress",
+        "pct": null
+      },
+      {
+        "pokemon": "Gliscor",
+        "pct": null
+      },
+      {
+        "pokemon": "Metang",
+        "pct": null
+      },
+      {
+        "pokemon": "Pupitar",
+        "pct": null
+      },
+      {
+        "pokemon": "Quagsire",
+        "pct": null
+      },
+      {
+        "pokemon": "Rhydon",
+        "pct": null
+      },
+      {
+        "pokemon": "Roserade",
+        "pct": null
+      },
+      {
+        "pokemon": "Salazzle",
+        "pct": null
+      },
+      {
+        "pokemon": "Seviper",
+        "pct": null
+      },
+      {
+        "pokemon": "Shelgon",
+        "pct": null
+      },
+      {
+        "pokemon": "Shuckle",
+        "pct": null
+      },
+      {
+        "pokemon": "Stantler",
+        "pct": null
+      },
+      {
+        "pokemon": "Tropius",
+        "pct": null
+      },
+      {
+        "pokemon": "Ursaluna",
+        "pct": null
+      },
+      {
+        "pokemon": "Yanmega",
+        "pct": null
+      },
+      {
+        "pokemon": "Zangoose",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Small Marsh (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Illumise",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lunatone",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Dugtrio",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Electrode",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Parasect",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Garbodor",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Clodsire",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 212 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Jolteon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Trevenant",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Dodrio",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Porygon2",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Flygon",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Staraptor",
+        "pct": 15.0
+      }
+    ]
+  },
+  {
+    "area": "Trophy Garden (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Manectric",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Grumpig",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Vikavolt",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Butterfree",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Meganium",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Infernape",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Drifblim",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 210 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Jellicent",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Yanmega",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Sirfetch´d",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Lanturn",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Venomoth",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Swampert",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Luxray",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Celestic Town (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Umbreon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Altaria",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Raichu",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Infernopod",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Fearow",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Mismagius",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Lucario",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Celestic House (Trade)",
+    "encounters": [
+      {
+        "pokemon": "Sudowoodo",
+        "pct": null
+      },
+      {
+        "pokemon": "IVs: 25",
+        "pct": null
+      },
+      {
+        "pokemon": "20.0",
+        "pct": null
+      },
+      {
+        "pokemon": "20.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15.0",
+        "pct": null
+      },
+      {
+        "pokemon": "25.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15)",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Fuego Ironworks (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Exeggutor",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Pinsir",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Rapidash",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Steelix",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Beedrill",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Ursaluna",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Machamp",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Ironwork (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Abomasnow",
+        "pct": null
+      },
+      {
+        "pokemon": "Ampharos",
+        "pct": null
+      },
+      {
+        "pokemon": "Ariados",
+        "pct": null
+      },
+      {
+        "pokemon": "Beartic",
+        "pct": null
+      },
+      {
+        "pokemon": "Cacturne",
+        "pct": null
+      },
+      {
+        "pokemon": "Crobat",
+        "pct": null
+      },
+      {
+        "pokemon": "Drapion",
+        "pct": null
+      },
+      {
+        "pokemon": "Heliolisk",
+        "pct": null
+      },
+      {
+        "pokemon": "Jolteon",
+        "pct": null
+      },
+      {
+        "pokemon": "Ludicolo",
+        "pct": null
+      },
+      {
+        "pokemon": "Medicham",
+        "pct": null
+      },
+      {
+        "pokemon": "Poliwrath",
+        "pct": null
+      },
+      {
+        "pokemon": "Sharpedo",
+        "pct": null
+      },
+      {
+        "pokemon": "Slowping",
+        "pct": null
+      },
+      {
+        "pokemon": "Swalot",
+        "pct": null
+      },
+      {
+        "pokemon": "Swellow",
+        "pct": null
+      },
+      {
+        "pokemon": "Venomoth",
+        "pct": null
+      },
+      {
+        "pokemon": "Vespiquen",
+        "pct": null
+      },
+      {
+        "pokemon": "Weavile",
+        "pct": null
+      },
+      {
+        "pokemon": "Weezing",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 220 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Kabutops",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Dragalge",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Golduck",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Relicanth",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Kingler",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Blastoise",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Poliwrath",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Route 221 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Shuckle",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Stantler",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Bellossom",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Pallosand",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Beautifly",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Pidgeot",
+        "pct": 10.0
+      },
+      {
+        "pokemon": "Nidoking",
+        "pct": 10.0
+      }
+    ]
+  },
+  {
+    "area": "Hidden House (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Bellossom",
+        "pct": null
+      },
+      {
+        "pokemon": "Camerupt",
+        "pct": null
+      },
+      {
+        "pokemon": "Crustle",
+        "pct": null
+      },
+      {
+        "pokemon": "Dewgong",
+        "pct": null
+      },
+      {
+        "pokemon": "Drifblim",
+        "pct": null
+      },
+      {
+        "pokemon": "Fearow",
+        "pct": null
+      },
+      {
+        "pokemon": "Flareon",
+        "pct": null
+      },
+      {
+        "pokemon": "Glalie",
+        "pct": null
+      },
+      {
+        "pokemon": "Grumpig",
+        "pct": null
+      },
+      {
+        "pokemon": "Kingler",
+        "pct": null
+      },
+      {
+        "pokemon": "Milotic",
+        "pct": null
+      },
+      {
+        "pokemon": "Ninetales",
+        "pct": null
+      },
+      {
+        "pokemon": "Omastar",
+        "pct": null
+      },
+      {
+        "pokemon": "Persian",
+        "pct": null
+      },
+      {
+        "pokemon": "Tangrowth",
+        "pct": null
+      },
+      {
+        "pokemon": "Tentacruel",
+        "pct": null
+      },
+      {
+        "pokemon": "Trevenant",
+        "pct": null
+      },
+      {
+        "pokemon": "Vaporeon",
+        "pct": null
+      },
+      {
+        "pokemon": "Whiscash",
+        "pct": null
+      },
+      {
+        "pokemon": "Xatu",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Footstep House (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Armaldo",
+        "pct": null
+      },
+      {
+        "pokemon": "Blissey",
+        "pct": null
+      },
+      {
+        "pokemon": "Breloom",
+        "pct": null
+      },
+      {
+        "pokemon": "Bronzong",
+        "pct": null
+      },
+      {
+        "pokemon": "Dugtrio",
+        "pct": null
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "pct": null
+      },
+      {
+        "pokemon": "Gallade",
+        "pct": null
+      },
+      {
+        "pokemon": "Honchkrow",
+        "pct": null
+      },
+      {
+        "pokemon": "Hypno",
+        "pct": null
+      },
+      {
+        "pokemon": "Jellicent",
+        "pct": null
+      },
+      {
+        "pokemon": "Jumpluff",
+        "pct": null
+      },
+      {
+        "pokemon": "Lanturn",
+        "pct": null
+      },
+      {
+        "pokemon": "Leafeon",
+        "pct": null
+      },
+      {
+        "pokemon": "Octillery",
+        "pct": null
+      },
+      {
+        "pokemon": "Palossand",
+        "pct": null
+      },
+      {
+        "pokemon": "Parasect",
+        "pct": null
+      },
+      {
+        "pokemon": "Politoed",
+        "pct": null
+      },
+      {
+        "pokemon": "Probopass",
+        "pct": null
+      },
+      {
+        "pokemon": "Raticate",
+        "pct": null
+      },
+      {
+        "pokemon": "Steelix",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Route 218 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Sharpedo",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Absol",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Walrein",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Starmie",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Ursaring",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Shaymin",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Canalave City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Vaporeon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Swellow",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Muk",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Obstagoon",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Bibarel",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Slowbro",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Registeel",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Iron Islands (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Excadrill",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Donphan",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Crobat",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Dusknoir",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Hariyama",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Gallade",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Jirachi",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Iron Cave (Riley)",
+    "encounters": [
+      {
+        "pokemon": "Altaria",
+        "pct": null
+      },
+      {
+        "pokemon": "Aurorus",
+        "pct": null
+      },
+      {
+        "pokemon": "Banette",
+        "pct": null
+      },
+      {
+        "pokemon": "Claydol",
+        "pct": null
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "pct": null
+      },
+      {
+        "pokemon": "Dodrio",
+        "pct": null
+      },
+      {
+        "pokemon": "Exeggutor",
+        "pct": null
+      },
+      {
+        "pokemon": "Gardevoir",
+        "pct": null
+      },
+      {
+        "pokemon": "Kabutops",
+        "pct": null
+      },
+      {
+        "pokemon": "Linoone",
+        "pct": null
+      },
+      {
+        "pokemon": "Lucario",
+        "pct": null
+      },
+      {
+        "pokemon": "Lycanroc",
+        "pct": null
+      },
+      {
+        "pokemon": "Marowak",
+        "pct": null
+      },
+      {
+        "pokemon": "Rampardos",
+        "pct": null
+      },
+      {
+        "pokemon": "Rapidash",
+        "pct": null
+      },
+      {
+        "pokemon": "Staraptor",
+        "pct": null
+      },
+      {
+        "pokemon": "Talonflame",
+        "pct": null
+      },
+      {
+        "pokemon": "Toxicroak",
+        "pct": null
+      },
+      {
+        "pokemon": "Umbreon",
+        "pct": null
+      },
+      {
+        "pokemon": "Victreebel",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Steel Room (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Sableye",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Spiritomb",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Camerupt",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Bisharp",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Bastiodon",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Dialga",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Genesect",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Lake Verity (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Gardevoir",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Milotic",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Heliolisk",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Ledian",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Heracross",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Feraligatr",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Mew",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Route 211 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Scizor",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lycanroc",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Ampharos",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Sceptile",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Magmortar",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Talonflame",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Entei",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Mt. Coronet North (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Golurk",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Electivire",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Coalossal",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Golem",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Blaziken",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Groudon",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Ice Room (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Glaceon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Spinda",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Banette",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "pct": 18.0
+      },
+      {
+        "pokemon": "Rhyperior",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Regice",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Deoxys",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Route 216 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Hypno",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Abomasnow",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Weavile",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Aggron",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Torterra",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Zapdos",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Route 217 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Delibird",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Empoleon",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Corvinight",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Rotom",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Mamoswine",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Suicune",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Acuity Lakefront (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Volbeat",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Honchcrow",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lapras",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Sandslash",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Exploud",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Chien-Pao",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Diancie",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Snowpoint City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Hitmonlee",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Mawile",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Medicham",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Weezing",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Glalie",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Dewgong",
+        "pct": 11.0
+      },
+      {
+        "pokemon": "Molders",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Snowpoint House (Trade)",
+    "encounters": [
+      {
+        "pokemon": "Heracross",
+        "pct": null
+      },
+      {
+        "pokemon": "IVs: 20",
+        "pct": null
+      },
+      {
+        "pokemon": "25.0",
+        "pct": null
+      },
+      {
+        "pokemon": "20.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15.0",
+        "pct": null
+      },
+      {
+        "pokemon": "15.0",
+        "pct": null
+      },
+      {
+        "pokemon": "25)",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Snowpoint Temple (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Hitmonchan",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Probopass",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Chandelure",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Rampardos",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Clefable",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Annihilate",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Mewtwo",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Ancient Room (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Bastiodon",
+        "pct": null
+      },
+      {
+        "pokemon": "Bisharp",
+        "pct": null
+      },
+      {
+        "pokemon": "Cradily",
+        "pct": null
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "pct": null
+      },
+      {
+        "pokemon": "Donphan",
+        "pct": null
+      },
+      {
+        "pokemon": "Electrode",
+        "pct": null
+      },
+      {
+        "pokemon": "Espeon",
+        "pct": null
+      },
+      {
+        "pokemon": "Garbodor",
+        "pct": null
+      },
+      {
+        "pokemon": "Golurk",
+        "pct": null
+      },
+      {
+        "pokemon": "Gyarados",
+        "pct": null
+      },
+      {
+        "pokemon": "Hariyama",
+        "pct": null
+      },
+      {
+        "pokemon": "Hippowdon",
+        "pct": null
+      },
+      {
+        "pokemon": "Manectric",
+        "pct": null
+      },
+      {
+        "pokemon": "Mismagius",
+        "pct": null
+      },
+      {
+        "pokemon": "Muk",
+        "pct": null
+      },
+      {
+        "pokemon": "Shiftry",
+        "pct": null
+      },
+      {
+        "pokemon": "Slowbro",
+        "pct": null
+      },
+      {
+        "pokemon": "Tyranitar",
+        "pct": null
+      },
+      {
+        "pokemon": "Vileplume",
+        "pct": null
+      },
+      {
+        "pokemon": "Volcarona",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Lake Acuity (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Octillery",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Ninetales",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Azumarill",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Togekiss",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Politoed",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Articuno",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Nihilego",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Mt. Coronet Cavern (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Armaldo",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lickilicky",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Mr. Mime",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Jynx",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Omastar",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Raikou",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Regirock",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Mt. Coronet Summit (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Slaking",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Beartic",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Charizard",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Hydreigon",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Palkia",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Rayquaza",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Sendoff Spring (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Miltank",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Blissey",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Tangrowth",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Krookodile",
+        "pct": 18.0
+      },
+      {
+        "pokemon": "Jumpluff",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Giratina",
+        "pct": 2.0
+      },
+      {
+        "pokemon": "Darkrai",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Acuity Cavern (Uxie)",
+    "encounters": [
+      {
+        "pokemon": "Arcanine",
+        "pct": null
+      },
+      {
+        "pokemon": "Blastoise",
+        "pct": null
+      },
+      {
+        "pokemon": "Charizard",
+        "pct": null
+      },
+      {
+        "pokemon": "Dragalge",
+        "pct": null
+      },
+      {
+        "pokemon": "Dusknoir",
+        "pct": null
+      },
+      {
+        "pokemon": "Eelektross",
+        "pct": null
+      },
+      {
+        "pokemon": "Electivire",
+        "pct": null
+      },
+      {
+        "pokemon": "Empoleon",
+        "pct": null
+      },
+      {
+        "pokemon": "Feraligatr",
+        "pct": null
+      },
+      {
+        "pokemon": "Glaceon",
+        "pct": null
+      },
+      {
+        "pokemon": "Golduck",
+        "pct": null
+      },
+      {
+        "pokemon": "Hydreigon",
+        "pct": null
+      },
+      {
+        "pokemon": "Lickilicky",
+        "pct": null
+      },
+      {
+        "pokemon": "Luxray",
+        "pct": null
+      },
+      {
+        "pokemon": "Machamp",
+        "pct": null
+      },
+      {
+        "pokemon": "Mamoswine",
+        "pct": null
+      },
+      {
+        "pokemon": "Metagross",
+        "pct": null
+      },
+      {
+        "pokemon": "Snorlax",
+        "pct": null
+      },
+      {
+        "pokemon": "Starmie",
+        "pct": null
+      },
+      {
+        "pokemon": "Walrein",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Valor Cavern (Azelf)",
+    "encounters": [
+      {
+        "pokemon": "Alakazam",
+        "pct": null
+      },
+      {
+        "pokemon": "Blaziken",
+        "pct": null
+      },
+      {
+        "pokemon": "Chandelure",
+        "pct": null
+      },
+      {
+        "pokemon": "Coalossal",
+        "pct": null
+      },
+      {
+        "pokemon": "Dragonite",
+        "pct": null
+      },
+      {
+        "pokemon": "Exploud",
+        "pct": null
+      },
+      {
+        "pokemon": "Garchomp",
+        "pct": null
+      },
+      {
+        "pokemon": "Golem",
+        "pct": null
+      },
+      {
+        "pokemon": "Illumise",
+        "pct": null
+      },
+      {
+        "pokemon": "Infernape",
+        "pct": null
+      },
+      {
+        "pokemon": "Kommo-o",
+        "pct": null
+      },
+      {
+        "pokemon": "Krookodile",
+        "pct": null
+      },
+      {
+        "pokemon": "Magmortar",
+        "pct": null
+      },
+      {
+        "pokemon": "Magnezone",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidoqueen",
+        "pct": null
+      },
+      {
+        "pokemon": "Porygon-Z",
+        "pct": null
+      },
+      {
+        "pokemon": "Sceptile",
+        "pct": null
+      },
+      {
+        "pokemon": "Scizor",
+        "pct": null
+      },
+      {
+        "pokemon": "Torterra",
+        "pct": null
+      },
+      {
+        "pokemon": "Typhlosion",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Verity Cavern (Mesprit)",
+    "encounters": [
+      {
+        "pokemon": "Aggron",
+        "pct": null
+      },
+      {
+        "pokemon": "Annihilape",
+        "pct": null
+      },
+      {
+        "pokemon": "Corvinight",
+        "pct": null
+      },
+      {
+        "pokemon": "Excadrill",
+        "pct": null
+      },
+      {
+        "pokemon": "Flygon",
+        "pct": null
+      },
+      {
+        "pokemon": "Gengar",
+        "pct": null
+      },
+      {
+        "pokemon": "Infernopod",
+        "pct": null
+      },
+      {
+        "pokemon": "Kingdra",
+        "pct": null
+      },
+      {
+        "pokemon": "Meganium",
+        "pct": null
+      },
+      {
+        "pokemon": "Miltank",
+        "pct": null
+      },
+      {
+        "pokemon": "Nidoking",
+        "pct": null
+      },
+      {
+        "pokemon": "Noivern",
+        "pct": null
+      },
+      {
+        "pokemon": "Pidgeot",
+        "pct": null
+      },
+      {
+        "pokemon": "Rhyperior",
+        "pct": null
+      },
+      {
+        "pokemon": "Salamence",
+        "pct": null
+      },
+      {
+        "pokemon": "Slaking",
+        "pct": null
+      },
+      {
+        "pokemon": "Swampert",
+        "pct": null
+      },
+      {
+        "pokemon": "Togekiss",
+        "pct": null
+      },
+      {
+        "pokemon": "Venusaur",
+        "pct": null
+      },
+      {
+        "pokemon": "Vikavolt",
+        "pct": null
+      }
+    ]
+  },
+  {
+    "area": "Lake Valor (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Snorlax",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Roserade",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Lopunny",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Ludicolo",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Eelektross",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Latios",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Xurkitree",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Route 222 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Vileplume",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Drapion",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Furret",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Porygon-Z",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Linoone",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Celebi",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Ho-oh",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Sunyshore City (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Pelipper",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Solrock",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Bronzong",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Victreebel",
+        "pct": 18.0
+      },
+      {
+        "pokemon": "Typhlosion",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Volcarona",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Zekrom",
+        "pct": 2.0
+      }
+    ]
+  },
+  {
+    "area": "Route 223 (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Tropius",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Tentacruel",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Gyarados",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Kingdra",
+        "pct": 18.0
+      },
+      {
+        "pokemon": "Dragonite",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Kyogre",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Lugia",
+        "pct": 2.0
+      }
+    ]
+  },
+  {
+    "area": "Victory Road (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Noivern",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Alakazam",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Gengar",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Tyranitar",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Garchomp",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Heatran",
+        "pct": 5.0
+      },
+      {
+        "pokemon": "Marshadow",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Pokémon League (Tall grass)",
+    "encounters": [
+      {
+        "pokemon": "Venusaur",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Arcanine",
+        "pct": 20.0
+      },
+      {
+        "pokemon": "Magnezone",
+        "pct": 15.0
+      },
+      {
+        "pokemon": "Salamence",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Metagross",
+        "pct": 14.0
+      },
+      {
+        "pokemon": "Kommo-O",
+        "pct": 12.0
+      },
+      {
+        "pokemon": "Arceus",
+        "pct": 5.0
+      }
+    ]
+  },
+  {
+    "area": "Creator Lodge (Palmer)",
+    "encounters": [
+      {
+        "pokemon": "Arceus",
+        "pct": null
+      },
+      {
+        "pokemon": "Articuno",
+        "pct": null
+      },
+      {
+        "pokemon": "Celebi",
+        "pct": null
+      },
+      {
+        "pokemon": "Chien-Pao",
+        "pct": null
+      },
+      {
+        "pokemon": "Darkrai",
+        "pct": null
+      },
+      {
+        "pokemon": "Deoxys",
+        "pct": null
+      },
+      {
+        "pokemon": "Dialga",
+        "pct": null
+      },
+      {
+        "pokemon": "Diancie",
+        "pct": null
+      },
+      {
+        "pokemon": "Entei",
+        "pct": null
+      },
+      {
+        "pokemon": "Genesect",
+        "pct": null
+      },
+      {
+        "pokemon": "Girationa",
+        "pct": null
+      },
+      {
+        "pokemon": "Groudon",
+        "pct": null
+      },
+      {
+        "pokemon": "Heatran",
+        "pct": null
+      },
+      {
+        "pokemon": "Ho-oh",
+        "pct": null
+      },
+      {
+        "pokemon": "Jirachi",
+        "pct": null
+      },
+      {
+        "pokemon": "Kyogre",
+        "pct": null
+      },
+      {
+        "pokemon": "Latios",
+        "pct": null
+      },
+      {
+        "pokemon": "Lugia",
+        "pct": null
+      },
+      {
+        "pokemon": "Marshadow",
+        "pct": null
+      },
+      {
+        "pokemon": "Mew",
+        "pct": null
+      },
+      {
+        "pokemon": "Mewtwo",
+        "pct": null
+      },
+      {
+        "pokemon": "Moltres",
+        "pct": null
+      },
+      {
+        "pokemon": "Nihilego",
+        "pct": null
+      },
+      {
+        "pokemon": "Palkia",
+        "pct": null
+      },
+      {
+        "pokemon": "Raikou",
+        "pct": null
+      },
+      {
+        "pokemon": "Rayquaza",
+        "pct": null
+      },
+      {
+        "pokemon": "Regice",
+        "pct": null
+      },
+      {
+        "pokemon": "Regirock",
+        "pct": null
+      },
+      {
+        "pokemon": "Registeel",
+        "pct": null
+      },
+      {
+        "pokemon": "Shaymin",
+        "pct": null
+      },
+      {
+        "pokemon": "Suicune",
+        "pct": null
+      },
+      {
+        "pokemon": "Xurkitree",
+        "pct": null
+      },
+      {
+        "pokemon": "Zapdos",
+        "pct": null
+      },
+      {
+        "pokemon": "Zekrom",
+        "pct": null
+      }
+    ]
+  }
+]
