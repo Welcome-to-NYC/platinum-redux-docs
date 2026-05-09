@@ -13,6 +13,7 @@ import * as encounters from "./pages/encounters.js";
 import * as walkthrough from "./pages/walkthrough.js";
 import * as items from "./pages/items.js";
 import * as credits from "./pages/credits.js";
+import * as parties from "./pages/parties.js";
 
 route("/", home.render);
 route("/pokedex", pokedex.render);
@@ -25,6 +26,8 @@ route("/bosses", bosses.render);
 route("/encounters", encounters.render);
 route("/walkthrough", walkthrough.render);
 route("/items", items.render);
+route("/parties", parties.render);
+route("/parties/:id", parties.render);
 route("/credits", credits.render);
 
 // Mobile menu toggle

@@ -43,6 +43,7 @@ export async function render(params, root) {
       ${tile("Bosses", bosses.length, "Bosses with IVs / nature / HC", "#/bosses")}
       ${tile("Encounters", "—", "Wild Pokémon by area", "#/encounters")}
       ${tile("Walkthrough", "—", "Sequential area + items", "#/walkthrough")}
+      ${tile("Parties", 12, "Curated teams · Redux + Gen 6 chart toggle", "#/parties")}
       ${tile("Items", "—", "Battle items and their effects", "#/items")}
       ${tile("Credits", "—", "Made by these awesome people", "#/credits")}
     </div>
