@@ -274,41 +274,46 @@ export async function render(params, root) {
     }
 
     root.innerHTML = `
-      <h1 class="h-title">TEAM BUILDER</h1>
-      <div class="party-disclaimer">
-        ⚠ <strong>Demo / reference only.</strong> Coverage analysis uses STAB types only (no coverage moves like Earthquake on a non-Ground mon). Treat scores as a starting point, not gospel.
-      </div>
-
-      <div class="bld-toolbar">
-        <div class="party-toggle" role="tablist" aria-label="Type chart">
-          <button class="party-toggle__btn ${chartMode === "redux" ? "is-active" : ""}" data-action="chart" data-chart="redux">Redux Chart</button>
-          <button class="party-toggle__btn ${chartMode === "gen6" ? "is-active" : ""}" data-action="chart" data-chart="gen6">Gen 6 Chart</button>
+      <div class="bld-root">
+        <h1 class="h-title">TEAM BUILDER</h1>
+        <div class="bld-disclaimer">
+          ⚠ <strong>Demo / reference only.</strong> Coverage analysis uses STAB types only (no coverage moves like Earthquake on a non-Ground mon). Treat scores as a starting point, not gospel.
         </div>
-        <button class="bld-clear" data-action="clear" ${team.length ? "" : "disabled"}>Clear team</button>
+
+        <div class="bld-toolbar">
+          <div class="chart-toggle" role="tablist" aria-label="Type chart">
+            <button class="chart-toggle__btn ${chartMode === "redux" ? "is-active" : ""}" data-action="chart" data-chart="redux">Redux Chart</button>
+            <button class="chart-toggle__btn ${chartMode === "gen6" ? "is-active" : ""}" data-action="chart" data-chart="gen6">Gen 6 Chart</button>
+          </div>
+          <button class="bld-clear" data-action="clear" ${team.length ? "" : "disabled"}>Clear team</button>
+        </div>
+
+        <div class="bld-slots">${slots.join("")}</div>
+        ${pickerHtml}
+        ${hardWeakSummary}
+
+        <h2 class="h-section">Defensive Coverage</h2>
+        <p style="font-size:1rem;color:var(--ink-mute);margin:.3rem 0 .6rem;">
+          For each attacking type → how many team members are <strong>W</strong>eak / <strong>R</strong>esist (or immune).
+          Red border = uncovered weakness.
+        </p>
+        <div class="bld-grid">${defCells}</div>
+
+        <h2 class="h-section">Offensive Coverage (STAB only)</h2>
+        <p style="font-size:1rem;color:var(--ink-mute);margin:.3rem 0 .6rem;">
+          For each defending type → team's best STAB multiplier. Yellow = 2×+, dim = can't hit super-effectively.
+        </p>
+        <div class="bld-grid">${offCells}</div>
+
+        ${suggestionsHtml}
       </div>
-
-      <div class="bld-slots">${slots.join("")}</div>
-      ${pickerHtml}
-      ${hardWeakSummary}
-
-      <h2 class="h-section">Defensive Coverage</h2>
-      <p style="font-size:1rem;color:var(--ink-mute);margin:.3rem 0 .6rem;">
-        For each attacking type → how many team members are <strong>W</strong>eak / <strong>R</strong>esist (or immune).
-        Red border = uncovered weakness.
-      </p>
-      <div class="bld-grid">${defCells}</div>
-
-      <h2 class="h-section">Offensive Coverage (STAB only)</h2>
-      <p style="font-size:1rem;color:var(--ink-mute);margin:.3rem 0 .6rem;">
-        For each defending type → team's best STAB multiplier. Yellow = 2×+, dim = can't hit super-effectively.
-      </p>
-      <div class="bld-grid">${offCells}</div>
-
-      ${suggestionsHtml}
     `;
 
-    // Wire interactions
-    root.addEventListener("click", onClick, { once: true });
+    // Wire interactions on the bld-root wrapper. The wrapper is re-created on
+    // every paint() and is wiped on route change (router replaces root.innerHTML),
+    // so the listener is naturally GC'd — no leak across pages.
+    const bldRoot = root.querySelector(".bld-root");
+    if (bldRoot) bldRoot.addEventListener("click", onClick);
     const pq = document.getElementById("bld-pick-q");
     if (pq) {
       pq.addEventListener("input", debounce((e) => {
@@ -326,7 +331,7 @@ export async function render(params, root) {
 
   function onClick(e) {
     const t = e.target.closest("[data-action]");
-    if (!t) { paint(); return; }
+    if (!t) return;
     const action = t.dataset.action;
     if (action === "open-picker") {
       openPicker(parseInt(t.dataset.slot, 10));
@@ -345,18 +350,14 @@ export async function render(params, root) {
       }
     } else if (action === "add-suggestion") {
       const mon = findMon(t.dataset.name);
-      if (!mon) { paint(); return; }
-      // Add to first empty slot
+      if (!mon) return;
       const idx = team.findIndex((x) => !x);
       if (team.length < 6) setMonAt(team.length, mon);
       else if (idx >= 0) setMonAt(idx, mon);
-      else paint();
     } else if (action === "chart") {
       setChart(t.dataset.chart);
     } else if (action === "clear") {
       clearTeam();
-    } else {
-      paint();
     }
   }
 
