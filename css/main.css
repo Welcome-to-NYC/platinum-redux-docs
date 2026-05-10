@@ -399,8 +399,6 @@ button { font: inherit; color: inherit; }
   color: var(--ink);
 }
 
-.pdx-dir { white-space: nowrap; padding: 0.55rem 0.7rem; }
-
 /* ==== filters / search ==== */
 .toolbar {
   display: flex;

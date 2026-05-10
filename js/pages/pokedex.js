@@ -85,23 +85,44 @@ export async function render(params, root) {
           ${moves.map((m) => `<option value="${escape(m)}">`).join("")}
         </datalist>
       </div>
-      <div class="field" style="flex:0 0 200px;">
+      <div class="field" style="flex:0 0 240px;">
         <label for="pdx-sort">Sort by</label>
         <select id="pdx-sort">
-          <option value="id">National Dex #</option>
-          <option value="name">Name (A-Z)</option>
-          <option value="bst">BST</option>
-          <option value="hp">HP</option>
-          <option value="atk">Attack</option>
-          <option value="def">Defense</option>
-          <option value="spa">Sp. Atk</option>
-          <option value="spd">Sp. Def</option>
-          <option value="spe">Speed</option>
+          <optgroup label="Default">
+            <option value="id:asc">National Dex # (low → high)</option>
+            <option value="id:desc">National Dex # (high → low)</option>
+            <option value="name:asc">Name (A → Z)</option>
+            <option value="name:desc">Name (Z → A)</option>
+          </optgroup>
+          <optgroup label="Total Stats">
+            <option value="bst:desc">Highest BST</option>
+            <option value="bst:asc">Lowest BST</option>
+          </optgroup>
+          <optgroup label="HP">
+            <option value="hp:desc">Highest HP</option>
+            <option value="hp:asc">Lowest HP</option>
+          </optgroup>
+          <optgroup label="Attack">
+            <option value="atk:desc">Highest Attack</option>
+            <option value="atk:asc">Lowest Attack</option>
+          </optgroup>
+          <optgroup label="Defense">
+            <option value="def:desc">Highest Defense</option>
+            <option value="def:asc">Lowest Defense</option>
+          </optgroup>
+          <optgroup label="Sp. Atk">
+            <option value="spa:desc">Highest Sp. Atk</option>
+            <option value="spa:asc">Lowest Sp. Atk</option>
+          </optgroup>
+          <optgroup label="Sp. Def">
+            <option value="spd:desc">Highest Sp. Def</option>
+            <option value="spd:asc">Lowest Sp. Def</option>
+          </optgroup>
+          <optgroup label="Speed">
+            <option value="spe:desc">Highest Speed</option>
+            <option value="spe:asc">Lowest Speed</option>
+          </optgroup>
         </select>
-      </div>
-      <div class="field" style="flex:0 0 auto;min-width:0;">
-        <label for="pdx-dir">Order</label>
-        <button id="pdx-dir" type="button" class="btn pdx-dir" data-dir="desc" title="Toggle high → low / low → high">↓ HIGH</button>
       </div>
       <div class="field" style="flex:0 0 auto;min-width:0;">
         <label>&nbsp;</label>
@@ -119,23 +140,12 @@ export async function render(params, root) {
   const abilitySel = document.getElementById("pdx-ability");
   const moveInp = document.getElementById("pdx-move");
   const sortSel = document.getElementById("pdx-sort");
-  const dirBtn = document.getElementById("pdx-dir");
   const resetBtn = document.getElementById("pdx-reset");
   const grid = document.getElementById("pdx-grid");
   const emptyEl = document.getElementById("pdx-empty");
   const countEl = document.getElementById("pdx-count");
 
-  function setDirLabel() {
-    const dir = dirBtn.dataset.dir;
-    const sortBy = sortSel.value;
-    if (sortBy === "name") {
-      dirBtn.textContent = dir === "asc" ? "↓ A-Z" : "↑ Z-A";
-    } else if (sortBy === "id") {
-      dirBtn.textContent = dir === "asc" ? "↓ 001+" : "↑ 493-";
-    } else {
-      dirBtn.textContent = dir === "desc" ? "↓ HIGH" : "↑ LOW";
-    }
-  }
+  const STAT_KEYS = new Set(["hp", "atk", "def", "spa", "spd", "spe", "bst"]);
 
   function apply() {
     const q = search.value.trim().toLowerCase();
@@ -143,8 +153,7 @@ export async function render(params, root) {
     const ab = abilitySel.value;
     const mvQuery = moveInp.value.trim();
     const mvNorm = normMove(mvQuery);
-    const sortBy = sortSel.value;
-    const dir = dirBtn.dataset.dir;
+    const [sortBy, dir] = (sortSel.value || "id:asc").split(":");
 
     let result = list.filter((p) => {
       if (q) {
@@ -163,7 +172,7 @@ export async function render(params, root) {
     if (sortBy === "name") {
       result.sort((a, b) => (a.name || "").localeCompare(b.name || ""));
       if (dir === "desc") result.reverse();
-    } else if (["hp", "atk", "def", "spa", "spd", "spe", "bst"].includes(sortBy)) {
+    } else if (STAT_KEYS.has(sortBy)) {
       result.sort((a, b) => {
         const av = a.stats?.[sortBy] || 0;
         const bv = b.stats?.[sortBy] || 0;
@@ -183,31 +192,23 @@ export async function render(params, root) {
     }
     emptyEl.hidden = true;
 
-    const showStat = ["hp", "atk", "def", "spa", "spd", "spe", "bst"].includes(sortBy);
-    grid.innerHTML = result.map((p) => card(p, showStat ? sortBy : null)).join("");
+    const showStat = STAT_KEYS.has(sortBy) ? sortBy : null;
+    grid.innerHTML = result.map((p) => card(p, showStat)).join("");
   }
 
-  setDirLabel();
   apply();
 
   search.addEventListener("input", debounce(apply, 90));
   typeSel.addEventListener("change", apply);
   abilitySel.addEventListener("change", apply);
   moveInp.addEventListener("input", debounce(apply, 90));
-  sortSel.addEventListener("change", () => { setDirLabel(); apply(); });
-  dirBtn.addEventListener("click", () => {
-    dirBtn.dataset.dir = dirBtn.dataset.dir === "asc" ? "desc" : "asc";
-    setDirLabel();
-    apply();
-  });
+  sortSel.addEventListener("change", apply);
   resetBtn.addEventListener("click", () => {
     search.value = "";
     typeSel.value = "";
     abilitySel.value = "";
     moveInp.value = "";
-    sortSel.value = "id";
-    dirBtn.dataset.dir = "asc";
-    setDirLabel();
+    sortSel.value = "id:asc";
     apply();
   });
 }
